@@ -2,7 +2,7 @@
   content: The paper *Demystifying Relational Latent Representations* accepted at [ILP 2017](https://ilp2017.sciencesconf.org/){:target="\_blank"} in Orleans, France
 
 - date: 2017-04-23 16:11:00-0400
-  content: Papers on *Clustering-Based Unsupervised Relational Representation Learning with an Explicit Distributed Representation* and *COBRA: A Fast and Simple Method for Active Clustering with Pairwise Constraints* accepted at [IJCAI 2017](http://ijcai-17.org/) in Melbourne, Australia
+  content: Papers *Clustering-Based Unsupervised Relational Representation Learning with an Explicit Distributed Representation* and *COBRA - A Fast and Simple Method for Active Clustering with Pairwise Constraints* accepted at [IJCAI 2017](http://ijcai-17.org/) in Melbourne, Australia
 
 - date: 2017-04-04 07:59:00-0400
   content: The paper on *An expressive dissimilarity measure for relational clustering using neighbourhood trees* accepted at [MLJ](https://www.springer.com/computer/ai/journal/10994){:target="\_blank"}
@@ -17,16 +17,16 @@
   content: The paper *On embeddings as an alternative paradigm for relational learning* accepted at the [StarAI workshop](http://www.starai.org/){:target="\_blank"} at [IJCAI](http://www.ijcai-18.org/)/[ICML](https://icml.cc/) 2018 in Stockholm
 
 - date: 2018-07-13 15:59:00-0400
-  content: The paper *COBRAS: Interactive Clustering with Pairwise Queries* accepted to [IDA 2018](https://ida2018.org/){:target="\_blank"} to be held in 's-Hertogenbosch, the Netherlands
+  content: The paper *COBRAS - Interactive Clustering with Pairwise Queries* accepted to [IDA 2018](https://ida2018.org/){:target="\_blank"} to be held in \'s-Hertogenbosch, the Netherlands
 
 - date: 2018-07-24 15:59:00-0400
-  content: The paper *COBRAS-TS: A new approach to Semi-Supervised Clustering of Time Series* accepted at the [Discovery Science 2018](http://www.cyprusconferences.org/ds2018/){:target="\_blank"} to be held in Limassol, Cyprus
+  content: The paper *COBRAS-TS - A new approach to Semi-Supervised Clustering of Time Series* accepted at the [Discovery Science 2018](http://www.cyprusconferences.org/ds2018/){:target="\_blank"} to be held in Limassol, Cyprus
 
 - date: 2018-04-12 15:59:00-0400
   content: I'm visiting [Mathias Niepert](http://www.matlog.net/){:target="\_blank"} at [NEC Labs Europe](https://uk.nec.com/en_GB/emea/about/neclab_eu){:target="\_blank"}
 
 - date:  2018-09-05 15:59:00-0400
-  content: The paper *DeepProbLog: Neural Probabilistic Logic Programming* accepted at [NIPS](https://nips.cc/){:target="\_blank"}!
+  content: The paper *DeepProbLog - Neural Probabilistic Logic Programming* accepted at [NIPS](https://nips.cc/){:target="\_blank"}!
 
 - date: 2018-08-10 15:59:00-0400
   content: The paper *Learning Sequence Encoders for Temporal Knowledge Graph Completion* accepted at [EMNLP](http://emnlp2018.org/){:target="\_blank"} in Brussels, Belgium!
@@ -38,7 +38,7 @@
   content: I'm honoured to be among the [Distinguished Program Committee](https://www.ijcai19.org/distinguished-PC.html){:target="\_blank"} at [IJCAI 2019](https://www.ijcai19.org){:target="\_blank"}!
 
 - date: 2019-05-09
-  content: Two papers accepted at  [IJCAI 2019](https://www.ijcai19.org){:target="\_blank"}: *Learning Relational Representations with Auto-encoding Logic Programs* and *A Comparative Study of Distributional and Symbolic Paradigms for Relational Learning*!
+  content: Two papers accepted at  [IJCAI 2019](https://www.ijcai19.org){:target="\_blank"} - *Learning Relational Representations with Auto-encoding Logic Programs* and *A Comparative Study of Distributional and Symbolic Paradigms for Relational Learning*!
 
 - date: 2019-08-13
   content: I'm honoured that my PhD thesis has been awarded a *honourable mention* for the [EurAI Distinguished Dissertation Award 2018](https://www.eurai.org/node/176){:target="\_blank"}!
@@ -49,8 +49,8 @@
 - date: 2019-09-24
   content: I'm speaking at the [Decision Analytics Closing Symposium](https://www.decisionanalyticsclosingsymposium.com/){:target="\_blank"} about constraint solving with Z3
 
-- date: 2019-12-18
-  content: [Luc](https://wms.cs.kuleuven.be/people/lucderaedt), [Angelika](http://users.cs.cf.ac.uk/KimmigA/) and I have been awarded an [FWO](https://www.fwo.be/)-funded project to continue our work on DeepProblog.
+#- date: 2019-12-18
+#  content: [Luc](https://wms.cs.kuleuven.be/people/lucderaedt), [Angelika](http://users.cs.cf.ac.uk/KimmigA/) and I have been awarded an [FWO](https://www.fwo.be/)-funded project to continue our work on DeepProblog.
 
 - date: 2020-04-28
   content: Three papers accepted at IJCAI 2020 in Kyoto, Japan.
@@ -59,10 +59,10 @@
   content: A paper on tackling noise in semi-supervised clustering accepted to ECML 2020 in Ghent, Belgium.
 
 - date: 2020-09-26
-  content: I will be giving a tutorial on neuro-symbolic AI at [AAAI'21](https://aaai.org/Conferences/AAAI-21/){:target="\_blank"} with [Luc](https://wms.cs.kuleuven.be/people/lucderaedt), Giuseppe and Robin. Stay tuned!
+  content: I will be giving a tutorial on neuro-symbolic AI at [AAAI 21](https://aaai.org/Conferences/AAAI-21/){:target="\_blank"} with [Luc](https://wms.cs.kuleuven.be/people/lucderaedt), Giuseppe and Robin. Stay tuned!
 
 - date: 2020-11-23
-  content: Our work with [Teal Partners](https://www.tealpartners.com/) on using automated reasoning for payroll management is accepted to [IAAI'21](https://aaai.org/Conferences/AAAI-21/iaai-21-call/).
+  content: Our work with [Teal Partners](https://www.tealpartners.com/) on using automated reasoning for payroll management is accepted to [IAAI 21](https://aaai.org/Conferences/AAAI-21/iaai-21-call/).
 
 - date: 2020-12-02
   content: Our work on knowledge refactoring for program induction is accepted to [AAAI 21](https://aaai.org/Conferences/AAAI-21/).
@@ -73,11 +73,11 @@
 - date: 2021-01-16
   content: I gave a talk on what abstraction can do for program induction at the [Automated Verification group](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/), Oxford University. [slides]({% link assets/pdf/2020/pres/2020_MIT.pdf %})
 
-- date: 2021-08-30 15:59:00-0400
-  content: [David](https://www.cs.ubc.ca/~poole/), [Angelika](https://people.cs.kuleuven.be/~angelika.kimmig/), [Jay](https://www.jaypujara.org/) and I are organising another interesting edition of [StarAI](https://starai.cs.kuleuven.be/) @ IJCLR 2021
+#- date: 2021-08-30 15:59:00-0400
+#  content: [David](https://www.cs.ubc.ca/~poole/), [Angelika](https://people.cs.kuleuven.be/~angelika.kimmig/), [Jay](https://www.jaypujara.org/) and I are organising another interesting edition of [StarAI](https://starai.cs.kuleuven.be/) at IJCLR 2021
 
 - date: 2021-09-01 15:59:00-0400
-  content: Join [Behrouz](https://behrouz-babaki.github.io/), [Parisa](http://www.cse.msu.edu/~kordjams/), [Alex](https://ajratner.github.io/) and me on our *Combining Learning and Reasoning: Programming Languages, Formalisms, and Representations* workshop @ AAAI 2022
+  content: Join [Behrouz](https://behrouz-babaki.github.io/), [Parisa](http://www.cse.msu.edu/~kordjams/), [Alex](https://ajratner.github.io/) and me on our *Combining Learning and Reasoning - Programming Languages, Formalisms, and Representations* workshop at AAAI 22
 
 - date: 2021-09-09 15:59:00-0400
   content: I have joined the [Algorithmics group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/) at the [Delft University of Technology](https://www.tudelft.nl/) as an Assistant Professor!

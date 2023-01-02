@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/'>Algorithmics</a> group. <a href="https://www.tudelft.nl/en/">Delft University of Technology</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 4.East.440</p>
+    <p>Van Mourik Broekmanweg 6</p>
+    <p>2628 XE Delft</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+*How can we make machines learn from as little data as possible?*<br/>
+*How can we make machines that effectively deploy their knowledge in novel situations?*
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I try to answer these questions by investigating how can we use programming languages to represent what artificially intelligence agents know and how they act.
+In pursuing this goal, I work on *program synthesis*, which focuses on learning programs from examples, and *probabilistic programming*, which focuses on representing and reasoning with probabilistic models represented as computer programs.
+In both fields, representing knowledge as a program is the key feature that allows us to capture knowledge of arbitrary complexity, use it flexibly, and acquire it from little experience.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also interested in application of program synthesis and probabilistic programming in scientific discovery (especially geophysics), transportation, robotics and planning.
+
+Before joining TU Delft, I was an  FWO-funded postdoctoral fellow in the [DTAI lab](https://dtai.cs.kuleuven.be/) at KU Leuven working with Hendrik Blockeel and Luc De Raedt, where I also obtained my PhD.
+I was a visiting researcher at MIT, University of Oxford, and NEC Laboratories Europe.

@@ -15,11 +15,7 @@
                 <tr>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
-                    <!--{% if item.inline -%}-->
-                      {{ item.content }}
-                    <!--{%- else -%}-->
-                    <!--<a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>-->
-                    <!--{%- endif %}-->
+                    {{ item.txt | markdownify }}
                   </td>
                 </tr>
               {%- endfor %} 

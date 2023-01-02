@@ -83,16 +83,22 @@
   txt: I have joined the [Algorithmics group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/) at the [Delft University of Technology](https://www.tudelft.nl/) as an Assistant Professor!
 
 - date: 2022-06-01
-  txt: Our [paper on provably safe machine learning](https://arxiv.org/abs/2112.00552), with [Kshitij](https://kgoyal40.github.io/) and [Hendrik](https://scholar.google.com/citations?user=Eq5sUNpp0gwC&hl=en) is accepted to ECML PKDD '22.
+  txt: Our [paper on provably safe machine learning](https://arxiv.org/abs/2112.00552), with [Kshitij](https://kgoyal40.github.io/) and [Hendrik](https://scholar.google.com/citations?user=Eq5sUNpp0gwC&hl=en) is accepted to ECML PKDD 22.
 
 - date: 2022-04-01
-  txt: I'm visiting Andrew Cropper at Oxford for a month.
+  txt: I'm visiting Andrew Cropper at Oxford.
 
-- date: 2022-01-11
-  txt: I'm visiting Josh Tenenbaum and tom Silver at MIT
+- date: 2022-11-01
+  txt: I'm visiting Josh Tenenbaum and Tom Silver at MIT.
 
 - date: 2022-09-01
   txt: A paper on automated decision-making for greenhouse climate management, with [Neil](https://starlab.ewi.tudelft.nl/) and a Master student Dirk van Bokkem, is accepted at IAAI 23.
 
 - date: 2022-10-28
   txt: Dirk van Bokkem, a Master studentI co-supervised with [Neil](https://starlab.ewi.tudelft.nl/), has won [the second prize 2nd prize of the Young Talent KNVI/KIVI thesis prizes for Computer Science and Information Science](https://khmw.nl/verslag-prijsuitreikingen-28-november-2022/).
+
+- date: 2022-09-01
+  txt: Issa Hanou has started a PhD with me and Mathijs de Weerdt
+
+- date: 2022-10-01
+  txt: Tilman Hinnerichs has joined my group

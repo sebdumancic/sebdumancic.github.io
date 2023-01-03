@@ -1,0 +1,26 @@
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if person.webpage %}
+    <a href="{{ person.webpage }}">
+  {% else %}
+    <a href="#">
+  {%- endif -%}
+      <div class="card hoverable">
+        <!-- image size should be (multiples of) width: 250px height: 200px -->
+        {% if person.img %}
+            {% include figure.html
+            path=person.img
+            alt="team member" %}
+        {% else %}
+            {% include figure.html
+            path="assets/img/person.png"
+            alt="team member" %}
+        {% endif %}
+        <div class="card-body">
+          <h2 class="card-title">{{ person.firstname }} {{person.lastname}}</h2>
+          <p class="card-text">{{ person.description }}</p>
+        </div>
+      </div>
+    </a>
+</div>

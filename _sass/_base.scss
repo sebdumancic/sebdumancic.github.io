@@ -426,6 +426,7 @@ footer.sticky-bottom {
     &:hover {
       .card-title {
         color: var(--global-theme-color);
+        font-size: 1.2rem;
       }
     }
   }
@@ -445,6 +446,15 @@ footer.sticky-bottom {
       align-items: center;
     }
   }
+
+  .card-body {
+    padding-top: 0;
+  }
+
+  .card-title {
+    font-size: 1.2rem;
+  }
+
 
   .grid-sizer, .grid-item {
     width: 250px;

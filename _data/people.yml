@@ -1,0 +1,119 @@
+- firstname: Tilman
+  lastname: Hinnerichs
+  img: assets/img/people/Tilman-Hinnerichs.jpg
+  description: Neuro-symbolic approaches to probabilistic program synthesis <br><br>
+  position: phd
+  webpage: https://tilman.hinnerichs.com/
+  current: true
+
+- firstname: Issa
+  lastname: Hanou
+  img: assets/img/people/Issa-Hanou.png
+  description: Probabilistic programming and program synthesis for robust planning
+  position: phd
+  webpage: 
+  current: true
+
+- firstname: Aldo
+  lastname: Pareja
+  img: assets/img/people/Aldo-Pareja.jpg
+  description: Probabilistic programming and simulators (with MIT-IBM Watson Lab)
+  position: phd
+  webpage: https://mitibmwatsonailab.mit.edu/people/aldo-pareja/
+  current: true
+
+- firstname: Jonas
+  lastname: Witt
+  img: 
+  description: Analogical reasoning in program synthesis (at Siemens and University of Bamberg)
+  position: phd
+  webpage: 
+  current: true
+
+- firstname: Kshitij
+  lastname: Goyal
+  img: assets/img/people/Kshitij-Goyal.jpg
+  description: Machine learning under constraints (at KU Leuven, with Hendrik Blockeel)
+  position: phd
+  webpage: https://kgoyal40.github.io/
+  current: true
+
+- firstname: Reuben
+  lastname: Gardos Reid
+  img:
+  description: Reasoning with a Rail Network Simulator <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Jaap
+  lastname: de Jong
+  img:
+  description: Unifying example- and specification-based program synthesis
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Pepijn
+  lastname: Klop
+  img: 
+  description: Using Large Language Models to generate examples for program synthesis
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Gautham
+  lastname: Venkataraman
+  img: 
+  description: Using Probabilistic Programming to guide Combinatorial Optimization in Dynamic Environments
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Koen
+  lastname: du Buf
+  img: 
+  description: System on Chip early power estimation using Machine Learning
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Marc
+  lastname: Droogh
+  img: 
+  description: AI for chip topographical optimisation
+  position: msc
+  webpage: 
+  current: false
+
+- firstname: Dirk 
+  lastname: van Bokkem
+  img: 
+  description: Economical greenhouse decision support model
+  position: msc
+  webpage: 
+  current: false
+
+- firstname: Stef
+  lastname: Rasing
+  img: 
+  description:
+  position: ra
+  webpage: 
+  current: false
+
+- firstname: Piotr
+  lastname: Cichoń
+  img: 
+  description:
+  position: honours
+  webpage: 
+  current: true
+
+- firstname: Nicolae
+  lastname: Filat
+  img: 
+  description:
+  position: honours
+  webpage: 
+  current: true

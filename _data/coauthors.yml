@@ -1,34 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Niepert":
+  - firstname: ["Mathias", "M."]
+    url: http://www.matlog.net/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kimmig":
+  - firstname: ["Angelika", "A."]
+    url: https://users.cs.cf.ac.uk/KimmigA/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Demeester":
+  - firstname: ["Thomas", "T."]
+    url: https://tdmeeste.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Meert":
+  - firstname: ["Wannes", "W."]
+    url: https://people.cs.kuleuven.be/~wannes.meert/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Guns":
+  - firstname: ["Tias", "T."]
+    url: http://homepages.vub.ac.be/~tiasguns/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"De Raedt":
+  - firstname: ["Luc", "L."]
+    url: https://people.cs.kuleuven.be/~luc.deraedt/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"van Craenendonck":
+  - firstname: ["Toon", "T"]
+    url: https://people.cs.kuleuven.be/~toon.vancraenendonck/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Blockeel":
+  - firstname: ["Hendrik", "H."]
+    url: https://people.cs.kuleuven.be/~hendrik.blockeel/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Cropper":
+  - firstname: ["Andrew", "A."]
+    url: http://andrewcropper.com/

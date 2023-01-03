@@ -4,7 +4,7 @@ title: team
 permalink: /team/
 description: 
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [postdoc, phd, msc, ra, honours]
 horizontal: false
 ---

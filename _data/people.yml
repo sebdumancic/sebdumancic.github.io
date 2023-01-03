@@ -1,3 +1,11 @@
+- firstname: This could
+  lastname: be you!
+  img: 
+  description: Probabilistic programming in geosciences
+  position: postdoc
+  webpage: 
+  current: true
+
 - firstname: Tilman
   lastname: Hinnerichs
   img: assets/img/people/Tilman-Hinnerichs.jpg

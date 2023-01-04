@@ -30,6 +30,7 @@ We are looking for candidates that have a PhD in one of these areas or are going
 <ul>
     <li>Appointment length: 1 year</li>
     <li>Start date: as soon as possible</li>
+    <li>Salary: € 2.960,00 - € 4.670,00</li>
     <li>Application process: no fixed deadline, send an email to Sebastijan Dumancic (s.dumancic@tudelft.nl) with a CV and a short motivation</li>
     <li>Questions: direct them to Sebastijan Dumancic</li>
 </ul>

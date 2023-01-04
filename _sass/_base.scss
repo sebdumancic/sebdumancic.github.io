@@ -723,3 +723,11 @@ progress {
      display: block;
      height: inherit;
  }
+
+ // alert
+
+ .alert {
+  strong, li {
+    color: black;
+  }
+ }

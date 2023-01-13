@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office 4.East.440</p>
+    <p>Office 4.East.220</p>
     <p>Van Mourik Broekmanweg 6</p>
     <p>2628 XE Delft</p>
 

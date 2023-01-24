@@ -86,6 +86,14 @@
   webpage: 
   current: true
 
+- firstname: Alexander
+  lastname: Freeman
+  img: 
+  description: Exploiting modularity in program synthesis
+  position: msc
+  webpage: 
+  current: true
+
 - firstname: Marc
   lastname: Droogh
   img: 

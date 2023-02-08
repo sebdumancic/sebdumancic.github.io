@@ -22,6 +22,6 @@ The two main goals of this tutorial are to (G1) introduce ILP to a broad AI audi
 <br>
 <br>
 
-**Slides**: Will appear soon.
+**Slides**: <a href="{{ 'AAAI23_ILPTutorial.pdf' | prepend: '/assets/pdf/' | relative_url }}">PDF</a>
 
 **Tutorial text:** [ILP at 30:a new introduction](https://arxiv.org/abs/2008.07912)

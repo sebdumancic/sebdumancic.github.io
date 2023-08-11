@@ -153,7 +153,8 @@ table {
         [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901.pdf) <br>
         Radford M. Neal<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* [HMC implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/mcmc/#Built-in-Stationary-Kernels-1) or implement it from scratch
       </td>
     </tr>
     <tr valign="top" >
@@ -163,7 +164,8 @@ table {
         [Automated Variational Inference in Probabilistic Programming](https://arxiv.org/pdf/1301.1299.pdf) <br>
         David Wingate, Theo Weber<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* [Implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/vi/) or [Pyro](https://pyro.ai/), or implemented a macro in Gen.jl to transform an arbitrary program into a variational one
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -185,7 +187,8 @@ table {
         [Deep Amortized Inference for Probabilistic Programs](https://arxiv.org/pdf/1610.05735.pdf) <br>
         Daniel Ritchie, Paul Horsfall, Noah D. Goodman<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* start from Gen.jl and implement a machine learning part
       </td>
     </tr>
     <tr valign="top" >
@@ -195,7 +198,8 @@ table {
         [Inference Compilation and Universal Probabilistic Programming](https://arxiv.org/pdf/1610.09900.pdf) <br>
         Tuan Anh Le, Atılım Güneş Baydin, Frank Wood<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* implement a piple over Gen.jl or start from [this code](https://github.com/facebookresearch/lightweight-inference-compilation)
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -218,7 +222,8 @@ table {
         [Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support](https://arxiv.org/pdf/1910.13324.pdf) <br>
         Yuan Zhou, Hongseok Yang, Yee Whye Teh, Tom Rainforth <br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* [Gen.jl](https://www.gen.dev/) provides you with everything you need to implement a simplified version of this. You are allowed to collaborate wiht the colleague from the same session
       </td>
     </tr>
     <tr valign="top" >
@@ -228,7 +233,8 @@ table {
         [Rethinking Variational Inference for Probabilistic Programs with Stochastic Support](https://openreview.net/pdf?id=wjClgX-muzB) <br>
         Tim Reichelt, Luke Ong, Tom Rainforth<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* [Gen.jl](https://www.gen.dev/) provides you with everything you need to implement a simplified version of this. You are allowed to collaborate wiht the colleague from the same session
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -250,7 +256,8 @@ table {
          [Gen: A General-Purpose Probabilistic Programming System with Programmable Inference](https://dl.acm.org/doi/pdf/10.1145/3314221.3314642)<br>
         Marco F. Cusumano-Towner, Feras A. Saad, Alexander K. Lew, Vikash K. Mansinghka<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* [Gen.jl](https://www.gen.dev/)
       </td>
     </tr>
     <tr valign="top" >
@@ -260,7 +267,8 @@ table {
         [SMCP3: Sequential Monte Carlo with probabilistic program proposals](https://proceedings.mlr.press/v206/lew23a.html)<br>
         Alexander K Lew, George Matheos, Tan Zhi-Xuan, Matin Ghavamizadeh, Nishad Gothoskar, Stuart Russell, Vikash K Mansinghka<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter: [Gen.jl library](https://github.com/probcomp/GenSMCP3.jl) implementing the functionality in Gen.jl, or build a simplified version from scratch
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -293,7 +301,8 @@ table {
         [Scaling Exact Inference for Discrete Probabilistic Programs](https://arxiv.org/abs/2005.09089)<br>
         Steven Holtzen, Guy van den Broeck, Todd Millsten<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* [Dice repository](http://dicelang.cs.ucla.edu/)
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -315,7 +324,8 @@ table {
         [ProbLog: A Probabilistic Prolog and its Application in Link Discovery](https://dtai.cs.kuleuven.be/publications/files/42447.pdf)<br>
         Luc De Raedt, Angelika Kimmig, Hannu Toivonen<br>
         [Review questions] 
-        [Miro board]
+        [Miro board] <br>
+        *Code starter:* [Problog website](https://dtai.cs.kuleuven.be/problog/)
       </td>
     </tr>
     <tr valign="top" >

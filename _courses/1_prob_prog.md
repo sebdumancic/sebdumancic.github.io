@@ -28,49 +28,63 @@ We will not revise these topics during the lectures, but refresher materials are
 
 ## Course Format
 
-The course will consist of lectures by the instructors, paper reviews, student presentations on research papers, and a project. The points are distributed as follows:
- - 65%: Research report
+The course consists of several learning activities, alongside lectures by the intrstructor, with the points distributed as follows:
+ - 0%: Paper reviews 
  - 25%: Presentation
+ - 65%: Research report
  - 10%: Participation  
- - 0%: Paper reviews
+ 
 
 **Paper reviews.** 
 The course will take the format of a research seminar. 
 This means that there will be no textbook and blackboard lectures; instead, we will be reading and discussing state of the art papers in the field. 
-You are expected to read and review every paper before the class. 
-The paper reviews will not be extensive: they consist of a few questions to answer regarding the main idea of the paper and are there to help you study. 
+Consequently, you are expected to come prepared for the class by reading one of the papers covered in the lecture.
+As a preparation for the class, you have to write a review of that paper. 
+The reviews consist of a few questions that help you understand the paper to sufficient extend; they will point out important points, what you should pay attention to, and which part you can avoid.
+Scientific articles are not always easy to read as they are typically written for people that already know a lot about the field; the review questions help you navigate that.
+The reviews are not graded, but are essential preparation for the classes.
+After the lectures, you will receive prototypical answer that help you to track your progress.
+
+
 
 **Paper presentation.** 
 You are expected to present one of the assigned papers. 
 You will understand the paper in details, including searching for additional literature that helps you to understand the paper and why it works, and present it to your colleagues. 
+Your objective for the presentation: explain the core idea behind the assigned paper in clearest terms possible. Don't try to cover everything in the paper, identify important and essential parts. 
+Convey the intuitions before the math.
+
+
+
+**Research report.**
+The largest part of your grade and efforts goes to a research report. 
+In contrast to standard courses, the goal of this course is not for you to just learn what you have been thought; instead, the goal is to go beyond the materials and think about strengths and weaknesses, and how to overcome them.
+Your task is to do that for your assigned topic: you will start from your paper, relate it to other content of the course, explore the current status of the topic, analyse its strength and weaknesses, and propose new research directions.
+You don't have to execute that research, but you have to develop a proposal.
+You are also expected to stress-test the method experimentally, either starting from an existing implementation or producing a simplified implementation yourself.
+
+
 
 
 
 **Class participation.** 
 As this is a seminar course, you are expected to *actively participate* in class. 
-You cannot pass the course by only submitting the reviews and the project without saying anything during lectures. 
+During the lectures, we will be clarifying the details from the papers, analysing their strengths, weaknesses, and evaluation; in other words, exactly what you are supposed to do in your reports.
+Your participation will be graded in two ways:
+ - Sending questions in advance. To start up discussion, I ask you to think about the papers in advance and post questions you have about it. What is a good question? Anything that helps you to understand the paper and is not of the form "What is X?" where X is something explained in the paper.
+ - Helping others. Our shared goal is to understand the papers, and the field of probabilistic programming itself, together. We will maintain a shared PDF in which you can post and answer questions about papers. 
+
 See [how to do well in a seminar course.](#how-to-do-well-in-a-seminar-course) 
 
-**Project.** 
-The project will take the form of a competition. 
-You compete in groups of 2 or 3 with the goal to write the fastest inference procedure for the given problems. 
 
-
-For more details about the grading scheme, see [here](#grading-scheme).
 
 ## Schedule
 
-The materials are split in two categories:
- - **Required literature**: these are the paper we cover in class. They form the mandatory literature. 
- - **If you want to know more**: these papers are not mandatory reading, but rather interesting references you can use to further study the topic. 
 
 You do not have to read every paper from the required literature. 
 You will be divided in groups (group split is on Brightspace) and each group reads only one paper for the class. 
 You will learn about the other paper from the presentation of your colleagues.
 
-Each lecture  comes with a reading guide. 
-This guide explains what you should get from the papers (and what is perhaps not relevant!). 
-Use it to focus your efforts on important stuff.
+Use review questions to focus on the important parts.
 Of course, you are not discouraged to go into depths of every paper.
 
 <style scoped>
@@ -122,6 +136,19 @@ table {
         **Basic inference procedures:** <br> Enumeration, Rejection sampling, Importance Sampling, Metropolis-Hastings MCMC, Sequential Monte Carlo (Particle filtering). Why do they work? 
       </td>
     </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span">
+        **Paper 1** <br>
+        [Chapter 8](https://probmods.org/chapters/inference-algorithms.html) from [Probabilistic models of cognition](Probabilistic models of cognition) <br>
+        Noah D. Goodman, Joshua B. Tenenbaum<br>
+        
+        **Paper 2** <br>
+        Sections 4.1-4.3 from [An introduction to probabilistic programming](https://arxiv.org/pdf/1809.10756.pdf) <br>
+        Jan-Willem van de Meent, Brooks Paige, Hongseok Yang, Frank Wood<br>
+        
+      </td>
+    </tr>
     <tr><td><br></td></tr>
 
 
@@ -132,6 +159,23 @@ table {
       </td>
       <td markdown="span" >
         **Implementation strategies.** <br> Database view. Continuations. Message passing. 
+      </td>
+    </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span">
+        **Paper 1** <br>
+        [Lightweight Implementations of Probabilistic Programming Languages Via Transformational Compilation](http://proceedings.mlr.press/v15/wingate11a/wingate11a.pdf) <br>
+        David Wingate, Andreas Stuhlmüller, Noah D. Goodman<br>
+        
+        **Paper 2** <br>
+        [C3: Lightweight Incrementalized MCMC for Probabilistic Programs using Continuations and Callsite Caching](https://arxiv.org/pdf/1509.02151.pdf) <br>
+        Daniel Ritchie, Andreas Stuhlmuller, Noah D. Goodman<br>
+
+        **Paper 3** <br>
+        Sections 6.1, 6.4-6.7 from [An introduction to probabilistic programming](https://arxiv.org/pdf/1809.10756.pdf) <br>
+        Jan-Willem van de Meent, Brooks Paige, Hongseok Yang, Frank Wood<br><br>
+        
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -688,46 +732,11 @@ Here are a few situations that are acceptable in a seminar course, but perhaps n
 
 
 
-### Grading scheme
-
-The tables below lists the expected competences for passing grades.
-the descriptions are cummulative; e.g., expectations for the grade 8 also include expectations for grades 6 and 7. 
-
-
-**Project**
-
-<style scoped>
-table {
-  font-size: 13px;
-}
-</style>
-**Grade** | **Competences that need to be demonstrated** |
---|-----------------|
-6 | Running a large number of off-the-shelf inference procedures on several problems |
-7 | Composition of basic inference procedures, with minor modifications to their original form |
-8 | Development of problem-specific inference procedures that leverage problem structure and domain insights in a non-trivial way <br> Basic procedure that generalises across problems <br> Contribution in terms of new problems or innovative rewrites of provided programs |
-9 | Use of deep theoretical insights <br> Development of a single inference procedure that works well on different problems |
-10 | Execution that  can be published as a research paper <br> Using insights beyond what was explicitly covered in the lectures |
---|----------------|
-
-**Presentation, discussions, reviews**
-
-**Grade** | **Competences that need to be demonstrated** |
---|-----------------|
-6 | Understandable presentation, but no effort to make the topic more understandable through materials beyond the provided reading <br><br> The presentation and reviews demonstrate shallow understanding of most of the topics <br><br> Critical analysis is shallow <br><br> Active participation only in  few discussions |
-7 | Presentation make extensive use of visualisations and examples <br><br>The presentation and reviews demonstrate good understanding of the topics and very good understanding of a few of them <br><br> Critical analysis is focused on the limitations outlined in a paper, but a student can elaborate in more details why  <br><br> Frequent participation in discussions, but not going too much into depth |
-8 | Presentation draws connections to other topics covered in the course <br><br> The presentations and reviews demonstrate very good understanding of the topics <br><br> Provide critical analysis beyond what is outlined in the papers while also identifying solutions <br><br> Frequent participation in discussions, with a deeper insight demonstrated in few discussions |
-9 | Presentation offers a very comprehensive introduction to the topic, broader than the required reading <br><br> Reviews demonstrate a very good understanding of all topics <br><br> Critical analysis goes beyond the limitations in the paper, the weaknesses are well elaborated, and the analysis contains concrete solutions <br><br> Active participation in the majority of discussions, with frequently sharing deeper insights about the topics |
-10 | Demonstrable understanding of the topics beyond what was required. <br><br> The equivalent of identifying a research problem and conceiving a detailed research plan how to address it |
---|----------------|
-
-
-
 ### Preparing your presentation
 
 You will have to present one paper to the group. Student presentation start in week 3.
 
-Your presentation should take between 15 and 20 mins. This is an estimate, some papers might require less while other more time. If you think you have to go beyond this limit, discuss it with me.
+Your presentation should take 15 mins. This is an estimate, some papers might require less while other more time. If you think you have to go beyond this limit, discuss it with me.
 
 Approach your presentation as a short lecture. You goal is to explain the topic to your colleagues so that they learn from the lecture; only half of the student in the class will have read the paper. Think about the right way to explain the topic; this might not be the way it was explained in the paper. For instance, if you found that you had to look a lot of other concepts, explain them before the topic you are covering. 
 Use illustrations and animations, you can find lots of them online (if not for the exact topic, then for something very related that could help you explain the intuition). Provide a working example, especially if such an example is not present in the original paper.
@@ -744,33 +753,12 @@ Your main focus in the presentation should be to convey the idea/concept to your
 
 
 
-### Project rules
-
-The project has few rules:
- - you can use any PPL you want. I would encourage you to play with multiple ones. Choose the tools based on what they can do for you rather than which language are they implemented in. I would strongly suggest to at least have a look at the PPLs that support programmable inference (such as Gen, Turing, and Pyro).  Some tools you might consider: [Gen.jl](https://www.gen.dev/), [Pyro](https://pyro.ai/), [PyMC3](https://docs.pymc.io/en/v3/index.html), [Anglican](https://probprog.github.io/anglican/), [Turing.jl](https://turing.ml/stable/), [Stan](https://mc-stan.org/), [ProbTorch](https://github.com/probtorch/probtorch), [TensorFlow probability](https://www.tensorflow.org/probability), [Bean Machine](https://beanmachine.org/).
- - Form teams of 2 or 3 
- - Your team can submit floor(N/2) inference procedures, where N is the number of problems. All submitted procedures will be run on every problem, and the best result will be kept for each problem. The idea behind limiting this is to force you to develop at least some inference procedures that work on multiple problems. You can decide how to divide the inference procedures over tasks: you can made a few submissions that specialise on a particular problem and accompany it with one general inference procedures, or vice versa. You general inference procedures can be *meta-procedures*: they can try to figure out which inference procedure to use (or their composition) heuristically.
- - You can make as many submissions as possible. We will run the evaluation once per week with the most recent submission. Every submission needs to be followed with a log entry (i.e., [project report](#project-reports)).
- - You can submit your own problems. Once I approve your problem, all teams need to consider them.
- - You have to use a common Docker image.
- - You can re-write the given programs, as long as they retain the same meaning. 
- - createa Github repository and share it with me.
+### Project - implementation
 
 
-### Project reports
 
-You will not be making a standard project report that you submit once at the end of the quarter summarising your findings.
-Instead, the project report will be the logs that you make with each project submission.
-The logs have free form but have to answer two questions: (1) what did you change, and (2) why did you make that change.
-The ansers to these questions do not have to be extensive elaborations, but should be a concise summary sufficient for me to understand your motivations. 
+### Project - report
 
-
-Don't interpret 'motivation' too strictly. It is acceptable to occasionally just try out something. You just don't want you rreport to be a collection of random tryouts.
-It is also ok to have a huntch which you cannot fully ground in the theory explored during the lectures. 
-
-Don't be shy with negative results. Sometimes you have an idea you think would be successful, but is not. This is normal. This is good progress if your motivation for trying it out makes sense. Note that 'makes sense' is different from 'correct'. You might have made a mistake in your reasoning and that is also a part of the process (this can still earn you points).
-
-Upload your log in Brightspace (Project). The log of each submission should be a separate file.
 
 
 ### Course feedback
@@ -783,404 +771,4 @@ What works for you? What doesn't? Do you have an idea how to improve something?
 You can submit the feedback anonymously [HERE](https://forms.gle/PUGRCUwsZp4HNGbC7).
 
 
-### Paper reviews
-
-#### W3 L5 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Apply the transformation to the if-then statement starting at line 9 in Figure 1
-
- - Why focus on weakest precondition analysis? Wouldn't it make sense to derive stronger conditions?
-
- - Give an example of a potential weakest precondition rule for continuous case.
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer.
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-
-#### W3 L5 P2
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - How does exactly non-centering make sampling more efficient?
-
- - Work out an implementation of the non-centering transformation in one of the paradigms of L4.
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer.
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W3 L6 P2
-
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Why is Hamiltonian dynamics interesting for probabilistic inference? What does it buy us?
-
- - Take a closer look at equation 11.67. What does the difference in two Hamiltonians actually capture?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer.
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W3 L6 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - What is the main difference between forward and reverse mode autmamted differentiation?
-
- - When is forward (reverse) mode more efficient?
-
- - How is it possible that we can differentiate an entire program, with complex control flow and branching? 
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-
-#### W4 L7 P1
-
- - What is the problem that the work addresses?
-
- - Explain the idea behind variational inference in your own words. 
-
- - How does this work create a variational equivalent of the provided program?
-
- - What are the conditions the target program needs to fulfil in order to use variational inference (of the kind described in the paper)?
-
- - When will variational inference fail?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W4 L7 P2
-
- - What is the problem that the work addresses?
-
- - Explain the idea behind variational inference in your own words. 
-
- - When will variational inference fail?
-
- - Does this technique works for any probabilistic program?
-
- - Why are the two transformations necessary?
-
- - Which part of the framework is variationally approximated?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-
-
-#### W4 L8 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - What is neural networks predicting exactly?
-
- - What is the difference compared to variational inference?
-
- - The paper pays special attention to gradient estimators. The variational inference paper we looked into did not do that. Why is this issue important for this paper?
-
- - How does the paper make discrete probabilistic choices 'differentiable'?
-
- - Why is the function mapData important in this work?
-
- - How does the paper ensure that the guide program keeps the control flow of the starting probabilistic program?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-
-
-#### W4 L8 P2
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - What is neural networks predicting exactly?
-
- - What is the difference compared to variational inference?
-
- - Why did the authors chose the LSTM to model a program?
-
- - Assume you have trained a compiled inference network, but your query suddenly changes together with the observations. Can you reuse your compiled inference network?
-
- - Could you use this idea in other inference algorithms, beyond importance sampling? If yes, how?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-
-#### W5 L9 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - What is the key computational abstraction that makes programmable inference possible?
-
- - Can an inference procedure over a subproblem change any part of a program? 
-
- - How does Venture ensures that the trace remains valid after an inference step for a subproblem?
-
- - What is a valid trace?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-#### W5 L9 P2
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Give an example of a problem that could be difficult to solve with *standard* proposal but easy to do with a specific programmatic proposal? Give a sketch of such a proposal program?
-
- - what is the difference between *output choices* and *internal choices*?
-
- - Explain in your words why programs as proposal do not affect the guarantees offered by Importance sampling and Metropolis-Hastings inference algorithm?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W5 L10 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Why is the consider problem suitable for probabilistic programming?
-
- - Which quantities of the considered model are uncertain/probabilitic?
-
- - What is a big challenge in applying probabilistic inference to physics problems?
-
- - Do inference procedures we hve seen in the course require any modification to be applied to this problem? Why?
-
- - What needs to be changed in the original simulator to use it within probabilistic programming engine?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-
-#### W5 L10 P2
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Why is the consider problem suitable for probabilistic programming?
-
- - What are the assumptions that the paper makes?
-
- - What are the sources of uncertanty in epidemiological models?
-
- - Do inference procedures we hve seen in the course require any modification to be applied to this problem? Why?
-
- - What needs to be changed in the original simulator to use it within probabilistic programming engine?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-
-
-#### W6 L11 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Involutive MCMC needs three ingredients? Which ones and why are they needed?
-
- - What does the auxiliary variables do? Try to relate it to other inference procedure we have seen in the class?
-
- - What are the key abstractions that this paper contributes in order to make involutive MCMC applicable to any problem that can be expressed in probabilistic programming?
-
- - What is the key part that makes it possible to easily switch between traces with different number of stochastic choices?
-
- - Probabilistic programming perspective makes one part of involutive MCMC easy. Which part is that?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W6 L11 P2
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Why does the work focuses on straight-line programs?
-
- - Why can we so easily combine samples of individual straight-line programs?
-
- - What is the role of resource allocation in DCC?
-
- - Explain in your words why inference procedures likw Metropolis-Hastings MCMC and paricle filtering are bad at problems with stochastic support?
-
- - DCC draws samples from two *spaces*; which ones and why are they needed?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W6 L12 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Why is the combination of logic and probability interesting?
-
- - What is the role of weighted model counting in Problog?
-
- - What is the advantage of Problog when it comes to finding executions of a program that lead to the query?
-
- - Why is a disjoint sum a problem?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W6 L12 P2
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - Why is the combination of logic and probability interesting?
-
- - What makes a logical proof more important?
-
- - What is the main difference between this kind of approximation and other approximate techniques we have seen in the course?
-
- - How do we find the optimal proofs efficiently?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution
-
-
-#### W7 L13 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - What makes VAE variational?
-
- - What issue does the reparametrization trick solve? 
-
- - VAE does not make any assumption about the structure of data, unlike a probabilistic program. Explain what that means?
-
- - What can a probabilistic program do that VAE cannot?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W7 L13 P2
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - What makes the flows normalizing? Why can we treat the transformed function q_K as the probability density of z_K?
-
- - Why do we require the transformations to be invertible?
-
- - What do flows do better than variational inference we have seen so far?
-
- -  What can a probabilistic program do that VAE cannot?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W7 L14 P1
-
- - Explain what weighted model counting is and how is it related to probabilistic inference.
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
-
-
-#### W8 L15 P1
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - What does the prior represent in this work?
-
- - What is the posterior distribution representing?
-
- - What does the likelihood term (probability of x given y) represent?
-
- - what are the observations that we can observe?
-
- - What did the authors need to change in inference procedures to make them work on this problem?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
-
-
-#### W8 L15 P2
-
- - What is the problem that the work addresses?
-
- - Explain the main contribution of the work in your own words.
-
- - What does the prior represent in this work?
-
- - What is the posterior distribution representing?
-
- - What does the likelihood term (probability of x given y) represent?
-
- - what are the observations that we can observe?
-
- - What did the authors need to change in inference procedures to make them work on this problem?
-
- - What question(s) would you ask yourself to test your understanding? Provide the question and the answer. 
-
- - Identify at least one limitation and, if you can, propose a solution.
 

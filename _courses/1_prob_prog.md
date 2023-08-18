@@ -449,8 +449,8 @@ table {
       <td></td>
       <td markdown="span" >
         **Paper 1** <br>
-        [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762)<br>
-        George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan<br>
+        [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770.pdf)<br>
+        Danilo Jimenez Rezende, Shakir Mohamed<br>
         [[Miro board]](https://miro.com/app/board/uXjVMtGYRdo=/?share_link_id=106069796777)<br>
         *Code starter:* any implementation of normalising flows like [normalizing flows in Pytorch](https://github.com/VincentStimper/normalizing-flows), [FlowTorch](https://flowtorch.ai/), or [Pyro](https://pyro.ai/examples/normalizing_flows_i.html)
 
@@ -527,10 +527,10 @@ table {
       <td></td>
       <td markdown="span" >
         **Paper 2** <br>
-        [Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs](https://arxiv.org/abs/2306.03081)<br>
-        Alexander K. Lew, Tan Zhi-Xuan, Gabriel Grand, Vikash K. Mansinghka<br>
+        [Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model](https://arxiv.org/pdf/1807.07706.pdf)<br>
+        Atılım Günes Baydin et al<br>
         [[Miro board]](https://miro.com/app/board/uXjVMtPZabs=/?share_link_id=841848106028) <br>
-        *Code starter:* [official implementation](https://github.com/probcomp/LLaMPPL)
+        *Code starter:* take a much simpler simulators and work with it
       </td>
     </tr>
     <tr><td><br></td></tr>

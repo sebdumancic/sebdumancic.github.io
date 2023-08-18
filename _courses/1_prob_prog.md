@@ -451,7 +451,7 @@ table {
         **Paper 1** <br>
         [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762)<br>
         George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan<br>
-        [Miro board]<br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRdo=/?share_link_id=106069796777)<br>
         *Code starter:* any implementation of normalising flows like [normalizing flows in Pytorch](https://github.com/VincentStimper/normalizing-flows), [FlowTorch](https://flowtorch.ai/), or [Pyro](https://pyro.ai/examples/normalizing_flows_i.html)
 
       </td>
@@ -462,8 +462,7 @@ table {
         **Paper 2** <br>
         [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>
         Jonathan Ho, Ajay Jain, Pieter Abbeel<br>
-        [Review questions] 
-        [Miro board] <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtVcDos=/?share_link_id=635867473828) <br>
         *Code starter:* any implementation such as [this one](https://github.com/lucidrains/denoising-diffusion-pytorch)
       </td>
     </tr>
@@ -496,7 +495,7 @@ table {
         **Paper 2** <br>
         [Automating Involutive MCMC using Probabilistic and Differentiable Programming](https://arxiv.org/abs/2007.09871)<br>
         Marco Cusumano-Towner, Alexander K. Lew, Vikash K. Mansinghka<br> 
-        [Miro board] <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtPZaUs=/?share_link_id=264639656648) <br>
         *Code starter:* [Gen.jl's implementation](https://www.gen.dev/docs/stable/ref/mcmc/#Involutive-MCMC-1) of Involutive MCMC
       </td>
     </tr>
@@ -520,8 +519,7 @@ table {
         **Paper 1** <br>
         [Approximate Bayesian computation scheme for parameter inference and model selection in dynamical systems](https://pubmed.ncbi.nlm.nih.gov/19205079/)<br>
         Tina Toni, David Welch, Natalja Strelkowa, Andreas Ipsen and Michael P.H Stumpf<br>
-        [Review questions] 
-        [Miro board] <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtPZad0=/?share_link_id=159807287985) <br>
         *Code starter:* [SBI library](https://www.mackelab.org/sbi/) or implement it from scratch in [Gen.jl](https://www.gen.dev/)
       </td>
     </tr>
@@ -531,8 +529,7 @@ table {
         **Paper 2** <br>
         [Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs](https://arxiv.org/abs/2306.03081)<br>
         Alexander K. Lew, Tan Zhi-Xuan, Gabriel Grand, Vikash K. Mansinghka<br>
-        [Review questions] 
-        [Miro board] <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtPZabs=/?share_link_id=841848106028) <br>
         *Code starter:* [official implementation](https://github.com/probcomp/LLaMPPL)
       </td>
     </tr>
@@ -556,8 +553,7 @@ table {
         **Paper 1** <br>
         [Data-Driven Synthesis of Full Probabilistic Programs](https://schasins.com/assets/papers/dataDrivenSynthesisOfFullProbabilisticPrograms.pdf)<br>
         Sarah Chasins, Phitchaya Mangpo Phothilimthana<br>
-        [Review questions] 
-        [Miro board] <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtPZbnk=/?share_link_id=5429881514§) <br>
         *Code starter:* I recommend a fresh implementation in Gen.jl, but [the original code repository](https://github.com/schasins/PPL-synthesis) might have useful information
       </td>
     </tr>
@@ -567,8 +563,7 @@ table {
         **Paper 2** <br>
         [Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling](https://arxiv.org/abs/1907.06249)<br>
         Feras Saad, Marco Cusumano-Towner, Ulrich Schaechtle, Martin Rinard, and Vikash Mansinghka<br>
-        [Review questions] 
-        [Miro board] <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtV-GeE=/?share_link_id=847628046927) <br>
         *Code starter:*  Implement a simplified version in Gen.jl
       </td>
     </tr>

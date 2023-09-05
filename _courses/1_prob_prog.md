@@ -148,11 +148,12 @@ table {
         **What is probabilistic programming?** <br> What is model-based reasoning? The anatomy of a probabilistic program. Course structure.
       </td>
     </tr>
-    <tr>
+    <tr valign="top" >
       <td></td>
       <td markdown="span">
         Chapters 3 and 4 (without 4.4) from [Automating Inference, Learning, and Design using Probabilistic Programming](https://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf) <br>
-        Tom Rainforth<br>  
+        Tom Rainforth<br> 
+        
       </td>
     </tr>
     <tr><td><br></td></tr>

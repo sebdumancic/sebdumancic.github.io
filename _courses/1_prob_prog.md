@@ -33,6 +33,9 @@ The course consists of several learning activities, alongside lectures by the in
  - 25%: Presentation
  - 65%: Research report
  - 10%: Participation  
+
+
+ ### Course deliverables
  
 
 **Paper reviews.** 
@@ -43,24 +46,55 @@ As a preparation for the class, you have to write a review of that paper.
 The reviews consist of a few questions that help you understand the paper to sufficient extend; they will point out important points, what you should pay attention to, and which part you can avoid.
 Scientific articles are not always easy to read as they are typically written for people that already know a lot about the field; the review questions help you navigate that.
 The reviews are not graded, but are essential preparation for the classes.
-After the lectures, you will receive prototypical answer that help you to track your progress.
+After the lectures, you will receive prototypical answers that help you to track your progress.
+These questions are in the Miro boards associated with the paper, and you should submit them in Brightspace.
 
 
 
 **Paper presentation.** 
-You are expected to present one of the assigned papers. 
-You will understand the paper in details, including searching for additional literature that helps you to understand the paper and why it works, and present it to your colleagues. 
-Your objective for the presentation: explain the core idea behind the assigned paper in clearest terms possible. Don't try to cover everything in the paper, identify important and essential parts. 
+Only the classes in the first two weeks will be typical lectures; the goal of these lectures is to set all of you at the same starting point. 
+Starting in week 3, you will take the lead role.
+
+
+In every lecture, we will cover 2 papers on arelated topic. 
+Each paper will be presented by a student taking the course.
+You choose which paper you present.
+for every lecture, you are expect to read only one paper out of the 2 we cover; you will learn about the other one from the presentation of your classmate.
+
+For the paper you are responsible, you will understand the paper in details, including searching for additional literature that helps you to understand the paper and why it works, and present it to your colleagues. 
+You are allowed to use any material from the Web for your presentations.
+
+Your objective for the presentation: explain the core idea behind the assigned paper in clearest terms possible. 
+Don't try to cover everything in the paper, identify important and essential parts. 
 Convey the intuitions before the math.
+
+Lastly, schedule a meeting with me at least 2 days before your presentation for the feedback.
 
 
 
 **Research report.**
 The largest part of your grade and efforts goes to a research report. 
-In contrast to standard courses, the goal of this course is not for you to just learn what you have been thought; instead, the goal is to go beyond the materials and think about strengths and weaknesses, and how to overcome them.
-Your task is to do that for your assigned topic: you will start from your paper, relate it to other content of the course, explore the current status of the topic, analyse its strength and weaknesses, and propose new research directions.
-You don't have to execute that research, but you have to develop a proposal.
-You are also expected to stress-test the method experimentally, either starting from an existing implementation or producing a simplified implementation yourself.
+In contrast to standard courses, the goal of this course is not for you to just soak up what you have been thought; instead, the goal is to go beyond the materials and think about strengths and weaknesses, and how to overcome them.
+
+You main task in the report is to design a research proposal, without execuyting it.
+You will have to dig deeper into your topic, studying papers that we will not cover in the class.
+The report should consist of 5 parts:
+ 1. **Description of the topic**. Briefly describe your topic and contextualise it within the probabilistic programming field. Describe what the problem is and why is it challenging. 
+ 2. **Literature study**. Starting from a paper you have been assigned to, you should find several related papers (which either propose alternative solutions to the same problem, or use similar techniques for other problems). You should briefly summarise them and outline their strengths and weaknesses compared to the main paper you started with. 
+ 3. **Relation to other topics in the course.** You cannot pass the course by only investing time into your own topic. In the report, you have to describe how it connects to every other topic we have covered (does topic X solve the same problem as your topic? Does X employ different assumptions? Does it use different techniques? ...). 
+ 4. **Experimental test**. Each paper we cover either comes with code implementing it or is easy to implement on top of existing probabilistic programming languages. You are expected to play with your method and stress-test it. You can, for example, design probabilistic programs that test the complexity of problems the inference procedures can handle, you can change parts of the techniques to see if they improve their performance or make it worse, etc. If you are re-implementing papers, you **don't** have to implement them fully. Start from a simplified versions, explain your motivation for the simplification, and add complexities later on (given the time restraints).
+ 5. **Research proposal(s).** Describe one or more research projects you think would advance the field, focusing on your topic. The proposal should
+    - Clearly describe the problem you are addressing.
+    - How would you address it technically, and why does that approach make sense
+    - How would you experimentally test it 
+    - what could go wring with your plan.
+  Note that I do understand that, for many of you, this is the first time encouring open-ended research project. I do not expect you to design entirely new projects no one has taught of before. While you shoudl certainty try to do that, research papers often contain 'Future work' sections; you are allowed to start from these suggestions and work them out in details.
+
+
+Starting in week 5, you will have some time avaialble to request my feedback on your drafts. 
+I will reserve a certain amount of time per week to read your drafts.
+Each of you will also get a fix amount of time, which you can divide as you wish (e.g., all at once, or distribute it through the weeks).
+The details will be known once I know how many people will be taking this course.
 
 
 
@@ -70,8 +104,8 @@ You are also expected to stress-test the method experimentally, either starting 
 As this is a seminar course, you are expected to *actively participate* in class. 
 During the lectures, we will be clarifying the details from the papers, analysing their strengths, weaknesses, and evaluation; in other words, exactly what you are supposed to do in your reports.
 Your participation will be graded in two ways:
- - Sending questions in advance. To start up discussion, I ask you to think about the papers in advance and post questions you have about it. What is a good question? Anything that helps you to understand the paper and is not of the form "What is X?" where X is something explained in the paper.
- - Helping others. Our shared goal is to understand the papers, and the field of probabilistic programming itself, together. We will maintain a shared PDF in which you can post and answer questions about papers. 
+ - Sending questions in advance. To start up discussion, I ask you to think about the papers in advance and post questions you have about it. What is a good question? Anything that helps you to understand the paper and is not of the form "What is X?" where X is something explained in the paper. Put these question in the Miro board and don't forget to put your name next to the question.
+ - Helping others. Our shared goal is to understand the papers, and the field of probabilistic programming itself, together. We will maintain a shared PDF in which you can post and answer questions about papers. Answer the question in the Miro board and, again, dont' forget to put your name.
 
 See [how to do well in a seminar course.](#how-to-do-well-in-a-seminar-course) 
 

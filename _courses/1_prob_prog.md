@@ -606,7 +606,7 @@ table {
         [Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling](https://arxiv.org/abs/1907.06249)<br>
         Feras Saad, Marco Cusumano-Towner, Ulrich Schaechtle, Martin Rinard, and Vikash Mansinghka<br>
         [[Miro board]](https://miro.com/app/board/uXjVMtV-GeE=/?share_link_id=847628046927) <br>
-        *Code starter:*  Implement a simplified version in Gen.jl
+        *Code starter:*  The code is provided in [this tutorial](https://www.gen.dev/tutorials/rj/tutorial)
       </td>
     </tr>
     <tr><td><br></td></tr>

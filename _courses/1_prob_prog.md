@@ -209,17 +209,17 @@ table {
         **Paper 1** <br>
         [Lightweight Implementations of Probabilistic Programming Languages Via Transformational Compilation](http://proceedings.mlr.press/v15/wingate11a/wingate11a.pdf) <br>
         David Wingate, Andreas Stuhlmüller, Noah D. Goodman<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtjPqNo=/?share_link_id=350930972822)
+        [[Miro board]](https://miro.com/app/board/uXjVMtjPqNo=/)
         
         **Paper 2** <br>
         [C3: Lightweight Incrementalized MCMC for Probabilistic Programs using Continuations and Callsite Caching](https://arxiv.org/pdf/1509.02151.pdf) <br>
         Daniel Ritchie, Andreas Stuhlmuller, Noah D. Goodman<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBzTw=/?share_link_id=827175051942)
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBzTw=/)
 
         **Paper 3** <br>
         Sections 6.1, 6.4-6.7 from [An introduction to probabilistic programming](https://arxiv.org/pdf/1809.10756.pdf) <br>
         Jan-Willem van de Meent, Brooks Paige, Hongseok Yang, Frank Wood<br><br>
-        
+        [[Miro board]](https://miro.com/app/board/uXjVMtUZayc=/)
       </td>
     </tr>
     <tr><td><br></td></tr>

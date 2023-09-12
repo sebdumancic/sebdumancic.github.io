@@ -240,7 +240,7 @@ table {
         **Paper 1** <br>
         [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901.pdf) <br>
         Radford M. Neal<br> 
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBw3s=/?share_link_id=462517837474) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBw3s=/) <br>
         *Code starter:* [HMC implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/mcmc/#Built-in-Stationary-Kernels-1) or implement it from scratch
       </td>
     </tr>
@@ -250,12 +250,11 @@ table {
         **Paper 2** <br>
         [Automated Variational Inference in Probabilistic Programming](https://arxiv.org/pdf/1301.1299.pdf) <br>
         David Wingate, Theo Weber<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBw8c=/?share_link_id=80775884375) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBw8c=/) <br>
         *Code starter:* [Implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/vi/) or [Pyro](https://pyro.ai/), or implemented a macro in Gen.jl to transform an arbitrary program into a variational one
       </td>
     </tr>
     <tr><td><br></td></tr>
-
 
     <tr valign="top">
       <td markdown="span" >
@@ -272,7 +271,7 @@ table {
         **Paper 1** <br>
         [Deep Amortized Inference for Probabilistic Programs](https://arxiv.org/pdf/1610.05735.pdf) <br>
         Daniel Ritchie, Paul Horsfall, Noah D. Goodman<br> 
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBw7M=/?share_link_id=994773568352) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBw7M=/) <br>
         *Code starter:* start from Gen.jl and implement a machine learning part
       </td>
     </tr>
@@ -282,7 +281,7 @@ table {
         **Paper 2** <br>
         [Inference Compilation and Universal Probabilistic Programming](https://arxiv.org/pdf/1610.09900.pdf) <br>
         Tuan Anh Le, Atılım Güneş Baydin, Frank Wood<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthiiP4=/?share_link_id=191320299251) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthiiP4=/) <br>
         *Code starter:* implement a piple over Gen.jl or start from [this code](https://github.com/facebookresearch/lightweight-inference-compilation)
       </td>
     </tr>
@@ -305,7 +304,7 @@ table {
         **Paper 1** <br>
         [Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support](https://arxiv.org/pdf/1910.13324.pdf) <br>
         Yuan Zhou, Hongseok Yang, Yee Whye Teh, Tom Rainforth <br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthiiLI=/?share_link_id=251466589215) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthiiLI=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/) provides you with everything you need to implement a simplified version of this. You are allowed to collaborate wiht the colleague from the same session
       </td>
     </tr>
@@ -315,7 +314,7 @@ table {
         **Paper 2** <br>
         [Rethinking Variational Inference for Probabilistic Programs with Stochastic Support](https://openreview.net/pdf?id=wjClgX-muzB) <br>
         Tim Reichelt, Luke Ong, Tom Rainforth<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthiid8=/?share_link_id=510934592885) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthiid8=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/) provides you with everything you need to implement a simplified version of this. You are allowed to collaborate wiht the colleague from the same session
       </td>
     </tr>
@@ -337,7 +336,7 @@ table {
         **Paper 1** <br>
          [Gen: A General-Purpose Probabilistic Programming System with Programmable Inference](https://dl.acm.org/doi/pdf/10.1145/3314221.3314642)<br>
         Marco F. Cusumano-Towner, Feras A. Saad, Alexander K. Lew, Vikash K. Mansinghka<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthijg8=/?share_link_id=16520920058) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthijg8=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/)
       </td>
     </tr>
@@ -347,7 +346,7 @@ table {
         **Paper 2** <br>
         [SMCP3: Sequential Monte Carlo with probabilistic program proposals](https://proceedings.mlr.press/v206/lew23a.html)<br>
         Alexander K Lew, George Matheos, Tan Zhi-Xuan, Matin Ghavamizadeh, Nishad Gothoskar, Stuart Russell, Vikash K Mansinghka<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthiju8=/?share_link_id=160364427270) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthiju8=/) <br>
         *Code starter: [Gen.jl library](https://github.com/probcomp/GenSMCP3.jl) implementing the functionality in Gen.jl, or build a simplified version from scratch
       </td>
     </tr>
@@ -370,7 +369,7 @@ table {
         **Paper 1** <br>
         [On probabilistic inference by weighted model counting](https://www.sciencedirect.com/science/article/pii/S0004370207001889)<br>
         Mark Chavira, Adnan Darwiche<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthijqI=/?share_link_id=265343576932)
+        [[Miro board]](https://miro.com/app/board/uXjVMthijqI=/)
       </td>
     </tr>
     <tr valign="top" >
@@ -379,7 +378,7 @@ table {
         **Paper 2** <br>
         [Scaling Exact Inference for Discrete Probabilistic Programs](https://arxiv.org/abs/2005.09089)<br>
         Steven Holtzen, Guy van den Broeck, Todd Millsten<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthij2Q=/?share_link_id=681684492218) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthij2Q=/) <br>
         *Code starter:* [Dice repository](http://dicelang.cs.ucla.edu/)
       </td>
     </tr>
@@ -401,7 +400,7 @@ table {
         **Paper 1** <br>
         [ProbLog: A Probabilistic Prolog and its Application in Link Discovery](https://dtai.cs.kuleuven.be/publications/files/42447.pdf)<br>
         Luc De Raedt, Angelika Kimmig, Hannu Toivonen<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRCQ=/?share_link_id=975966924368) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRCQ=/) <br>
         *Code starter:* [Problog website](https://dtai.cs.kuleuven.be/problog/)
       </td>
     </tr>
@@ -411,7 +410,7 @@ table {
         **Paper 2** <br>
         [k-Optimal: A novel approximate inference algorithm for Problog](k-Optimal: A novel approximate inference algorithm for Problog)<br>
         Joris Renkens, Guy Van den Broeck, Siegfried Nijssen<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRN8=/?share_link_id=449278371126)
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRN8=/)
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -433,7 +432,7 @@ table {
         **Paper 1** <br>
         [Incremental inference for probabilistic programs](https://dl.acm.org/doi/pdf/10.1145/3296979.3192399)<br>
         Marco Cusumano-Towner, Benjamin Bichsel, Timon Gehr, Martin Vechev, Vikash K. Mansinghka<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/?share_link_id=352713619226)
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/)
       </td>
     </tr>
     <tr valign="top" >
@@ -442,7 +441,7 @@ table {
         **Paper 2** <br>
         [Anytime Inference in Probabilistic Logic Programs with TP-Compilation](https://www.ijcai.org/Proceedings/15/Papers/263.pdf)<br>
         Jonas Vlasselaer, Guy Van den Broeck, Angelika Kimmig, Wannes Meert, Luc De Raedt<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRSI=/?share_link_id=394484032419)
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRSI=/)
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -493,7 +492,7 @@ table {
         **Paper 1** <br>
         [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770.pdf)<br>
         Danilo Jimenez Rezende, Shakir Mohamed<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRdo=/?share_link_id=106069796777)<br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRdo=/)<br>
         *Code starter:* any implementation of normalising flows like [normalizing flows in Pytorch](https://github.com/VincentStimper/normalizing-flows), [FlowTorch](https://flowtorch.ai/), or [Pyro](https://pyro.ai/examples/normalizing_flows_i.html)
 
       </td>
@@ -504,7 +503,7 @@ table {
         **Paper 2** <br>
         [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>
         Jonathan Ho, Ajay Jain, Pieter Abbeel<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtVcDos=/?share_link_id=635867473828) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtVcDos=/) <br>
         *Code starter:* any implementation such as [this one](https://github.com/lucidrains/denoising-diffusion-pytorch)
       </td>
     </tr>
@@ -527,7 +526,7 @@ table {
         **Paper 1** <br>
         [Algebraic Model Counting](https://www.sciencedirect.com/science/article/pii/S157086831630088X)<br>
         Angelika Kimmig, Guy Van den Broeck, Luc De Raedt<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtFCwcM=/?share_link_id=313897442346) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtFCwcM=/) <br>
         *Code starter:* Problog allows you to [play with various semirings](https://dtai.cs.kuleuven.be/problog/wasp2017/session5.html)
       </td>
     </tr>
@@ -537,7 +536,7 @@ table {
         **Paper 2** <br>
         [Automating Involutive MCMC using Probabilistic and Differentiable Programming](https://arxiv.org/abs/2007.09871)<br>
         Marco Cusumano-Towner, Alexander K. Lew, Vikash K. Mansinghka<br> 
-        [[Miro board]](https://miro.com/app/board/uXjVMtPZaUs=/?share_link_id=264639656648) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtPZaUs=/) <br>
         *Code starter:* [Gen.jl's implementation](https://www.gen.dev/docs/stable/ref/mcmc/#Involutive-MCMC-1) of Involutive MCMC
       </td>
     </tr>

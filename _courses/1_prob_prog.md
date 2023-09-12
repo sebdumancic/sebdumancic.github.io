@@ -33,6 +33,9 @@ The course consists of several learning activities, alongside lectures by the in
  - 25%: Presentation
  - 65%: Research report
  - 10%: Participation  
+
+
+ ### Course deliverables
  
 
 **Paper reviews.** 
@@ -43,24 +46,55 @@ As a preparation for the class, you have to write a review of that paper.
 The reviews consist of a few questions that help you understand the paper to sufficient extend; they will point out important points, what you should pay attention to, and which part you can avoid.
 Scientific articles are not always easy to read as they are typically written for people that already know a lot about the field; the review questions help you navigate that.
 The reviews are not graded, but are essential preparation for the classes.
-After the lectures, you will receive prototypical answer that help you to track your progress.
+After the lectures, you will receive prototypical answers that help you to track your progress.
+These questions are in the Miro boards associated with the paper, and you should submit them in Brightspace.
 
 
 
 **Paper presentation.** 
-You are expected to present one of the assigned papers. 
-You will understand the paper in details, including searching for additional literature that helps you to understand the paper and why it works, and present it to your colleagues. 
-Your objective for the presentation: explain the core idea behind the assigned paper in clearest terms possible. Don't try to cover everything in the paper, identify important and essential parts. 
+Only the classes in the first two weeks will be typical lectures; the goal of these lectures is to set all of you at the same starting point. 
+Starting in week 3, you will take the lead role.
+
+
+In every lecture, we will cover 2 papers on arelated topic. 
+Each paper will be presented by a student taking the course.
+You choose which paper you present.
+for every lecture, you are expect to read only one paper out of the 2 we cover; you will learn about the other one from the presentation of your classmate.
+
+For the paper you are responsible, you will understand the paper in details, including searching for additional literature that helps you to understand the paper and why it works, and present it to your colleagues. 
+You are allowed to use any material from the Web for your presentations.
+
+Your objective for the presentation: explain the core idea behind the assigned paper in clearest terms possible. 
+Don't try to cover everything in the paper, identify important and essential parts. 
 Convey the intuitions before the math.
+
+Lastly, schedule a meeting with me at least 2 days before your presentation for the feedback.
 
 
 
 **Research report.**
 The largest part of your grade and efforts goes to a research report. 
-In contrast to standard courses, the goal of this course is not for you to just learn what you have been thought; instead, the goal is to go beyond the materials and think about strengths and weaknesses, and how to overcome them.
-Your task is to do that for your assigned topic: you will start from your paper, relate it to other content of the course, explore the current status of the topic, analyse its strength and weaknesses, and propose new research directions.
-You don't have to execute that research, but you have to develop a proposal.
-You are also expected to stress-test the method experimentally, either starting from an existing implementation or producing a simplified implementation yourself.
+In contrast to standard courses, the goal of this course is not for you to just soak up what you have been thought; instead, the goal is to go beyond the materials and think about strengths and weaknesses, and how to overcome them.
+
+You main task in the report is to design a research proposal, without execuyting it.
+You will have to dig deeper into your topic, studying papers that we will not cover in the class.
+The report should consist of 5 parts:
+ 1. **Description of the topic**. Briefly describe your topic and contextualise it within the probabilistic programming field. Describe what the problem is and why is it challenging. 
+ 2. **Literature study**. Starting from a paper you have been assigned to, you should find several related papers (which either propose alternative solutions to the same problem, or use similar techniques for other problems). You should briefly summarise them and outline their strengths and weaknesses compared to the main paper you started with. 
+ 3. **Relation to other topics in the course.** You cannot pass the course by only investing time into your own topic. In the report, you have to describe how it connects to every other topic we have covered (does topic X solve the same problem as your topic? Does X employ different assumptions? Does it use different techniques? ...). 
+ 4. **Experimental test**. Each paper we cover either comes with code implementing it or is easy to implement on top of existing probabilistic programming languages. You are expected to play with your method and stress-test it. You can, for example, design probabilistic programs that test the complexity of problems the inference procedures can handle, you can change parts of the techniques to see if they improve their performance or make it worse, etc. If you are re-implementing papers, you **don't** have to implement them fully. Start from a simplified versions, explain your motivation for the simplification, and add complexities later on (given the time restraints).
+ 5. **Research proposal(s).** Describe one or more research projects you think would advance the field, focusing on your topic. The proposal should
+    - Clearly describe the problem you are addressing.
+    - How would you address it technically, and why does that approach make sense
+    - How would you experimentally test it 
+    - what could go wring with your plan.
+  Note that I do understand that, for many of you, this is the first time encouring open-ended research project. I do not expect you to design entirely new projects no one has taught of before. While you shoudl certainty try to do that, research papers often contain 'Future work' sections; you are allowed to start from these suggestions and work them out in details.
+
+
+Starting in week 5, you will have some time avaialble to request my feedback on your drafts. 
+I will reserve a certain amount of time per week to read your drafts.
+Each of you will also get a fix amount of time, which you can divide as you wish (e.g., all at once, or distribute it through the weeks).
+The details will be known once I know how many people will be taking this course.
 
 
 
@@ -70,8 +104,8 @@ You are also expected to stress-test the method experimentally, either starting 
 As this is a seminar course, you are expected to *actively participate* in class. 
 During the lectures, we will be clarifying the details from the papers, analysing their strengths, weaknesses, and evaluation; in other words, exactly what you are supposed to do in your reports.
 Your participation will be graded in two ways:
- - Sending questions in advance. To start up discussion, I ask you to think about the papers in advance and post questions you have about it. What is a good question? Anything that helps you to understand the paper and is not of the form "What is X?" where X is something explained in the paper.
- - Helping others. Our shared goal is to understand the papers, and the field of probabilistic programming itself, together. We will maintain a shared PDF in which you can post and answer questions about papers. 
+ - Sending questions in advance. To start up discussion, I ask you to think about the papers in advance and post questions you have about it. What is a good question? Anything that helps you to understand the paper and is not of the form "What is X?" where X is something explained in the paper. Put these question in the Miro board and don't forget to put your name next to the question.
+ - Helping others. Our shared goal is to understand the papers, and the field of probabilistic programming itself, together. We will maintain a shared PDF in which you can post and answer questions about papers. Answer the question in the Miro board and, again, dont' forget to put your name.
 
 See [how to do well in a seminar course.](#how-to-do-well-in-a-seminar-course) 
 
@@ -115,6 +149,14 @@ table {
         <a href="{{ 'teaching/probprog/2023_2024/Lecture1.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
       </td>
     </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span">
+        Chapters 3 and 4 (without 4.4) from [Automating Inference, Learning, and Design using Probabilistic Programming](https://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf) <br>
+        Tom Rainforth<br> 
+        
+      </td>
+    </tr>
     <tr><td><br></td></tr>
 
     <tr valign="top">
@@ -143,7 +185,7 @@ table {
       <td></td>
       <td markdown="span">
         **Paper 1** <br>
-        [Chapter 8](https://probmods.org/chapters/inference-algorithms.html) from [Probabilistic models of cognition](Probabilistic models of cognition) <br>
+        [Chapter 8](https://probmods.org/chapters/inference-algorithms.html) from [Probabilistic models of cognition](https://probmods.org/index.html) <br>
         Noah D. Goodman, Joshua B. Tenenbaum<br>
         
         **Paper 2** <br>
@@ -170,18 +212,18 @@ table {
         **Paper 1** <br>
         [Lightweight Implementations of Probabilistic Programming Languages Via Transformational Compilation](http://proceedings.mlr.press/v15/wingate11a/wingate11a.pdf) <br>
         David Wingate, Andreas Stuhlmüller, Noah D. Goodman<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtjPqNo=/?share_link_id=350930972822)
+        [[Miro board]](https://miro.com/app/board/uXjVMtjPqNo=/)
         
         **Paper 2** <br>
         [C3: Lightweight Incrementalized MCMC for Probabilistic Programs using Continuations and Callsite Caching](https://arxiv.org/pdf/1509.02151.pdf) <br>
         Daniel Ritchie, Andreas Stuhlmuller, Noah D. Goodman<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBzTw=/?share_link_id=827175051942)<br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBzTw=/)
+
 
         **Paper 3** <br>
         Sections 6.1, 6.4-6.7 from [An introduction to probabilistic programming](https://arxiv.org/pdf/1809.10756.pdf) <br>
         Jan-Willem van de Meent, Brooks Paige, Hongseok Yang, Frank Wood<br><br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtUZayc=/?share_link_id=185879021384)
-        
+        [[Miro board]](https://miro.com/app/board/uXjVMtUZayc=/)
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -202,7 +244,7 @@ table {
         **Paper 1** <br>
         [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901.pdf) (first 20 pages) <br>
         Radford M. Neal<br> 
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBw3s=/?share_link_id=462517837474) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBw3s=/) <br>
         *Code starter:* [HMC implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/mcmc/#Built-in-Stationary-Kernels-1) or implement it from scratch
       </td>
     </tr>
@@ -212,12 +254,11 @@ table {
         **Paper 2** <br>
         [Automated Variational Inference in Probabilistic Programming](https://arxiv.org/pdf/1301.1299.pdf) <br>
         David Wingate, Theo Weber<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBw8c=/?share_link_id=80775884375) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBw8c=/) <br>
         *Code starter:* [Implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/vi/) or [Pyro](https://pyro.ai/), or implemented a macro in Gen.jl to transform an arbitrary program into a variational one
       </td>
     </tr>
     <tr><td><br></td></tr>
-
 
     <tr valign="top">
       <td markdown="span" >
@@ -234,7 +275,7 @@ table {
         **Paper 1** <br>
         [Deep Amortized Inference for Probabilistic Programs](https://arxiv.org/pdf/1610.05735.pdf) <br>
         Daniel Ritchie, Paul Horsfall, Noah D. Goodman<br> 
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBw7M=/?share_link_id=994773568352) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBw7M=/) <br>
         *Code starter:* start from Gen.jl and implement a machine learning part
       </td>
     </tr>
@@ -244,7 +285,7 @@ table {
         **Paper 2** <br>
         [Inference Compilation and Universal Probabilistic Programming](https://arxiv.org/pdf/1610.09900.pdf) <br>
         Tuan Anh Le, Atılım Güneş Baydin, Frank Wood<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthiiP4=/?share_link_id=191320299251) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthiiP4=/) <br>
         *Code starter:* implement a piple over Gen.jl or start from [this code](https://github.com/facebookresearch/lightweight-inference-compilation)
       </td>
     </tr>
@@ -267,7 +308,7 @@ table {
         **Paper 1** <br>
         [Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support](https://arxiv.org/pdf/1910.13324.pdf) <br>
         Yuan Zhou, Hongseok Yang, Yee Whye Teh, Tom Rainforth <br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthiiLI=/?share_link_id=251466589215) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthiiLI=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/) provides you with everything you need to implement a simplified version of this. You are allowed to collaborate wiht the colleague from the same session
       </td>
     </tr>
@@ -277,7 +318,7 @@ table {
         **Paper 2** <br>
         [Rethinking Variational Inference for Probabilistic Programs with Stochastic Support](https://openreview.net/pdf?id=wjClgX-muzB) <br>
         Tim Reichelt, Luke Ong, Tom Rainforth<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthiid8=/?share_link_id=510934592885) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthiid8=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/) provides you with everything you need to implement a simplified version of this. You are allowed to collaborate wiht the colleague from the same session
       </td>
     </tr>
@@ -299,7 +340,7 @@ table {
         **Paper 1** <br>
          [Gen: A General-Purpose Probabilistic Programming System with Programmable Inference](https://dl.acm.org/doi/pdf/10.1145/3314221.3314642)<br>
         Marco F. Cusumano-Towner, Feras A. Saad, Alexander K. Lew, Vikash K. Mansinghka<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthijg8=/?share_link_id=16520920058) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthijg8=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/)
       </td>
     </tr>
@@ -309,7 +350,7 @@ table {
         **Paper 2** <br>
         [SMCP3: Sequential Monte Carlo with probabilistic program proposals](https://proceedings.mlr.press/v206/lew23a.html)<br>
         Alexander K Lew, George Matheos, Tan Zhi-Xuan, Matin Ghavamizadeh, Nishad Gothoskar, Stuart Russell, Vikash K Mansinghka<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthiju8=/?share_link_id=160364427270) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthiju8=/) <br>
         *Code starter: [Gen.jl library](https://github.com/probcomp/GenSMCP3.jl) implementing the functionality in Gen.jl, or build a simplified version from scratch
       </td>
     </tr>
@@ -332,7 +373,7 @@ table {
         **Paper 1** <br>
         [On probabilistic inference by weighted model counting](https://www.sciencedirect.com/science/article/pii/S0004370207001889)<br>
         Mark Chavira, Adnan Darwiche<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthijqI=/?share_link_id=265343576932)
+        [[Miro board]](https://miro.com/app/board/uXjVMthijqI=/)
       </td>
     </tr>
     <tr valign="top" >
@@ -341,7 +382,7 @@ table {
         **Paper 2** <br>
         [Scaling Exact Inference for Discrete Probabilistic Programs](https://arxiv.org/abs/2005.09089)<br>
         Steven Holtzen, Guy van den Broeck, Todd Millsten<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthij2Q=/?share_link_id=681684492218) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMthij2Q=/) <br>
         *Code starter:* [Dice repository](http://dicelang.cs.ucla.edu/)
       </td>
     </tr>
@@ -363,7 +404,7 @@ table {
         **Paper 1** <br>
         [ProbLog: A Probabilistic Prolog and its Application in Link Discovery](https://dtai.cs.kuleuven.be/publications/files/42447.pdf)<br>
         Luc De Raedt, Angelika Kimmig, Hannu Toivonen<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRCQ=/?share_link_id=975966924368) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRCQ=/) <br>
         *Code starter:* [Problog website](https://dtai.cs.kuleuven.be/problog/)
       </td>
     </tr>
@@ -373,7 +414,7 @@ table {
         **Paper 2** <br>
         [k-Optimal: A novel approximate inference algorithm for Problog](k-Optimal: A novel approximate inference algorithm for Problog)<br>
         Joris Renkens, Guy Van den Broeck, Siegfried Nijssen<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRN8=/?share_link_id=449278371126)
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRN8=/)
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -395,7 +436,7 @@ table {
         **Paper 1** <br>
         [Incremental inference for probabilistic programs](https://dl.acm.org/doi/pdf/10.1145/3296979.3192399)<br>
         Marco Cusumano-Towner, Benjamin Bichsel, Timon Gehr, Martin Vechev, Vikash K. Mansinghka<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/?share_link_id=352713619226)
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/)
       </td>
     </tr>
     <tr valign="top" >
@@ -404,7 +445,7 @@ table {
         **Paper 2** <br>
         [Anytime Inference in Probabilistic Logic Programs with TP-Compilation](https://www.ijcai.org/Proceedings/15/Papers/263.pdf)<br>
         Jonas Vlasselaer, Guy Van den Broeck, Angelika Kimmig, Wannes Meert, Luc De Raedt<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRSI=/?share_link_id=394484032419)
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRSI=/)
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -455,7 +496,7 @@ table {
         **Paper 1** <br>
         [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770.pdf)<br>
         Danilo Jimenez Rezende, Shakir Mohamed<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRdo=/?share_link_id=106069796777)<br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRdo=/)<br>
         *Code starter:* any implementation of normalising flows like [normalizing flows in Pytorch](https://github.com/VincentStimper/normalizing-flows), [FlowTorch](https://flowtorch.ai/), or [Pyro](https://pyro.ai/examples/normalizing_flows_i.html)
 
       </td>
@@ -466,7 +507,7 @@ table {
         **Paper 2** <br>
         [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>
         Jonathan Ho, Ajay Jain, Pieter Abbeel<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtVcDos=/?share_link_id=635867473828) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtVcDos=/) <br>
         *Code starter:* any implementation such as [this one](https://github.com/lucidrains/denoising-diffusion-pytorch)
       </td>
     </tr>
@@ -489,7 +530,7 @@ table {
         **Paper 1** <br>
         [Algebraic Model Counting](https://www.sciencedirect.com/science/article/pii/S157086831630088X)<br>
         Angelika Kimmig, Guy Van den Broeck, Luc De Raedt<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtFCwcM=/?share_link_id=313897442346) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtFCwcM=/) <br>
         *Code starter:* Problog allows you to [play with various semirings](https://dtai.cs.kuleuven.be/problog/wasp2017/session5.html)
       </td>
     </tr>
@@ -499,7 +540,7 @@ table {
         **Paper 2** <br>
         [Automating Involutive MCMC using Probabilistic and Differentiable Programming](https://arxiv.org/abs/2007.09871)<br>
         Marco Cusumano-Towner, Alexander K. Lew, Vikash K. Mansinghka<br> 
-        [[Miro board]](https://miro.com/app/board/uXjVMtPZaUs=/?share_link_id=264639656648) <br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtPZaUs=/) <br>
         *Code starter:* [Gen.jl's implementation](https://www.gen.dev/docs/stable/ref/mcmc/#Involutive-MCMC-1) of Involutive MCMC
       </td>
     </tr>
@@ -568,7 +609,7 @@ table {
         [Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling](https://arxiv.org/abs/1907.06249)<br>
         Feras Saad, Marco Cusumano-Towner, Ulrich Schaechtle, Martin Rinard, and Vikash Mansinghka<br>
         [[Miro board]](https://miro.com/app/board/uXjVMtV-GeE=/?share_link_id=847628046927) <br>
-        *Code starter:*  Implement a simplified version in Gen.jl
+        *Code starter:*  The code is provided in [this tutorial](https://www.gen.dev/tutorials/rj/tutorial)
       </td>
     </tr>
     <tr><td><br></td></tr>

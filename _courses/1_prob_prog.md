@@ -112,6 +112,7 @@ table {
       </td>
       <td markdown="span" >
         **What is probabilistic programming?** <br> What is model-based reasoning? The anatomy of a probabilistic program. Course structure.
+        <a href="{{ 'teaching/probprog/2023_2024/Lecture1.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -123,6 +124,7 @@ table {
       </td>
       <td markdown="span" >
         **Generative thinking.** <br> How to write probabilistic programs? What is the distribution probabilistic program captures?
+        <a href="{{ 'teaching/probprog/2023_2024/Lecture2.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -134,6 +136,7 @@ table {
       </td>
       <td markdown="span" >
         **Basic inference procedures:** <br> Enumeration, Rejection sampling, Importance Sampling, Metropolis-Hastings MCMC, Sequential Monte Carlo (Particle filtering). Why do they work? 
+        <a href="{{ 'teaching/probprog/2023_2024/Lecture3.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
       </td>
     </tr>
     <tr valign="top" >
@@ -172,11 +175,12 @@ table {
         **Paper 2** <br>
         [C3: Lightweight Incrementalized MCMC for Probabilistic Programs using Continuations and Callsite Caching](https://arxiv.org/pdf/1509.02151.pdf) <br>
         Daniel Ritchie, Andreas Stuhlmuller, Noah D. Goodman<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtiBzTw=/?share_link_id=827175051942)
+        [[Miro board]](https://miro.com/app/board/uXjVMtiBzTw=/?share_link_id=827175051942)<br>
 
         **Paper 3** <br>
         Sections 6.1, 6.4-6.7 from [An introduction to probabilistic programming](https://arxiv.org/pdf/1809.10756.pdf) <br>
         Jan-Willem van de Meent, Brooks Paige, Hongseok Yang, Frank Wood<br><br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtUZayc=/?share_link_id=185879021384)
         
       </td>
     </tr>
@@ -196,7 +200,7 @@ table {
       <td></td>
       <td markdown="span">
         **Paper 1** <br>
-        [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901.pdf) <br>
+        [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901.pdf) (first 20 pages) <br>
         Radford M. Neal<br> 
         [[Miro board]](https://miro.com/app/board/uXjVMtiBw3s=/?share_link_id=462517837474) <br>
         *Code starter:* [HMC implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/mcmc/#Built-in-Stationary-Kernels-1) or implement it from scratch

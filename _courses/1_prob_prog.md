@@ -420,11 +420,40 @@ table {
     <tr><td><br></td></tr>
 
 
-
     <tr valign="top">
       <td markdown="span" >
         October 9, 2023 <br>
         (W6 L1)
+      </td>
+      <td markdown="span" >
+        **Deep probabilistic programming** 
+      </td>
+    </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span" >
+        **Paper 1** <br>
+        [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/pdf/1805.10872.pdf)<br>
+        Robin Manhaeve, Sebastijan Dumančić, Angelika Kimmig, Thomas Demeester, Luc De Raedt<br>
+        [Miro board]
+      </td>
+    </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span" >
+        **Paper 2** <br>
+        [DeepStochLog: Neural Stochastic Logic Programming](https://arxiv.org/abs/2106.12574)<br>
+        Thomas Winters, Giuseppe Marra, Robin Manhaeve, Luc De Raedt<br>
+        [Miro board]
+      </td>
+    </tr>
+    <tr><td><br></td></tr>
+
+
+    <tr valign="top">
+      <td markdown="span" >
+        October 12, 2023 <br>
+        (W6 L2)
       </td>
       <td markdown="span" >
         **Incremental and anytime inference** 
@@ -452,34 +481,7 @@ table {
 
 
 
-    <tr valign="top">
-      <td markdown="span" >
-        October 12, 2023 <br>
-        (W6 L2)
-      </td>
-      <td markdown="span" >
-        **Deep probabilistic programming** 
-      </td>
-    </tr>
-    <tr valign="top" >
-      <td></td>
-      <td markdown="span" >
-        **Paper 1** <br>
-        [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/pdf/1805.10872.pdf)<br>
-        Robin Manhaeve, Sebastijan Dumančić, Angelika Kimmig, Thomas Demeester, Luc De Raedt<br>
-        [Miro board]
-      </td>
-    </tr>
-    <tr valign="top" >
-      <td></td>
-      <td markdown="span" >
-        **Paper 2** <br>
-        [DeepStochLog: Neural Stochastic Logic Programming](https://arxiv.org/abs/2106.12574)<br>
-        Thomas Winters, Giuseppe Marra, Robin Manhaeve, Luc De Raedt<br>
-        [Miro board]
-      </td>
-    </tr>
-    <tr><td><br></td></tr>
+    
 
     <tr valign="top">
       <td markdown="span" >

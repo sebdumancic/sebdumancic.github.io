@@ -373,7 +373,8 @@ table {
         **Paper 1** <br>
         [On probabilistic inference by weighted model counting](https://www.sciencedirect.com/science/article/pii/S0004370207001889)<br>
         Mark Chavira, Adnan Darwiche<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthijqI=/)
+        [[Miro board]](https://miro.com/app/board/uXjVMthijqI=/) <br>
+        *Code starter:* you can play with BDD and SDD (a better version of BDDs) though the Python library [PySDD](https://github.com/wannesm/PySDD) or Julia collection of computation circuits in [Juice.jl](https://github.com/Juice-jl); there is also a BDD library in [Julia](https://github.com/RenatoGeh/BDD.jl); Problog also offers a connection to BDDs/SDDs
       </td>
     </tr>
     <tr valign="top" >
@@ -465,7 +466,8 @@ table {
         **Paper 1** <br>
         [Incremental inference for probabilistic programs](https://dl.acm.org/doi/pdf/10.1145/3296979.3192399)<br>
         Marco Cusumano-Towner, Benjamin Bichsel, Timon Gehr, Martin Vechev, Vikash K. Mansinghka<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/)
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/)<br>
+        *Code starter:* [Gen implementation](https://www.gen.dev/docs/stable/ref/trace_translators/) of trace translators
       </td>
     </tr>
     <tr valign="top" >
@@ -474,7 +476,8 @@ table {
         **Paper 2** <br>
         [Anytime Inference in Probabilistic Logic Programs with TP-Compilation](https://www.ijcai.org/Proceedings/15/Papers/263.pdf)<br>
         Jonas Vlasselaer, Guy Van den Broeck, Angelika Kimmig, Wannes Meert, Luc De Raedt<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRSI=/)
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRSI=/)<br>
+        *Code starter:* anytime inference is in Problog: [link](https://problog.readthedocs.io/en/latest/api.html#problog-forward-forward-compilation-and-evaluation)
       </td>
     </tr>
     <tr><td><br></td></tr>

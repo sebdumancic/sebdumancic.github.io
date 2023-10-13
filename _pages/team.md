@@ -48,9 +48,11 @@ horizontal: false
     {% endif %}
 
   {%- endfor -%}
+</div>
 
-  ## Alumni
+# Alumni
 
+<div class="projects">
   {% for category in page.display_categories %}
 
     {%- assign peops = site.data.people | where: "position", category | where: "current", false -%}

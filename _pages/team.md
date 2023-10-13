@@ -50,7 +50,9 @@ horizontal: false
   {%- endfor -%}
 </div>
 
+<br><br>
 # Alumni
+<hr>
 
 <div class="projects">
   {% for category in page.display_categories %}

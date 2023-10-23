@@ -611,9 +611,19 @@ table {
       <td></td>
       <td markdown="span" >
         **Paper 2** <br>
-        [Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling](https://arxiv.org/abs/1907.06249)<br>
-        Feras Saad, Marco Cusumano-Towner, Ulrich Schaechtle, Martin Rinard, and Vikash Mansinghka<br>
+        [Inferring Signaling Pathways with Probabilistic Programming](https://arxiv.org/pdf/2005.14062.pdf)<br>
+        David Merrell, Anthony Gitter<br>
         [[Miro board]](https://miro.com/app/board/uXjVMtV-GeE=/?share_link_id=847628046927) <br>
+        *Code starter:*  The code is provided in [this tutorial](https://www.gen.dev/tutorials/rj/tutorial)
+      </td>
+    </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span" >
+        **Paper 3** <br>
+        [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf)<br>
+        Nishad Gothoskar, Marco Cusumano-Towner, Ben Zinberg, Matin Ghavamizadeh, Falk Pollok, Austin Garrett, Joshua B. Tenenbaum, Dan Gutfreund, Vikash K. Mansinghka<br>
+        [[Miro board]](https://miro.com/app/board/uXjVNXNZrxc=/?share_link_id=435003912945) <br>
         *Code starter:*  The code is provided in [this tutorial](https://www.gen.dev/tutorials/rj/tutorial)
       </td>
     </tr>

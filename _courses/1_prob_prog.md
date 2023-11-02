@@ -244,6 +244,7 @@ table {
         **Paper 1** <br>
         [MCMC using Hamiltonian dynamics](https://arxiv.org/pdf/1206.1901.pdf) (first 20 pages) <br>
         Radford M. Neal<br> 
+        <a href="{{ 'teaching/probprog/2023_2024/W3L1A.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
         [[Miro board]](https://miro.com/app/board/uXjVMtiBw3s=/) <br>
         *Code starter:* [HMC implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/mcmc/#Built-in-Stationary-Kernels-1) or implement it from scratch
       </td>
@@ -254,6 +255,7 @@ table {
         **Paper 2** <br>
         [Automated Variational Inference in Probabilistic Programming](https://arxiv.org/pdf/1301.1299.pdf) <br>
         David Wingate, Theo Weber<br>
+        <a href="{{ 'teaching/probprog/2023_2024/W3L1B.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
         [[Miro board]](https://miro.com/app/board/uXjVMtiBw8c=/) <br>
         *Code starter:* [Implementation in Gen.jl](https://docs.juliahub.com/Gen/OEZG1/0.4.1/ref/vi/) or [Pyro](https://pyro.ai/), or implemented a macro in Gen.jl to transform an arbitrary program into a variational one
       </td>
@@ -308,6 +310,7 @@ table {
         **Paper 1** <br>
         [Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support](https://arxiv.org/pdf/1910.13324.pdf) <br>
         Yuan Zhou, Hongseok Yang, Yee Whye Teh, Tom Rainforth <br>
+        <a href="{{ 'teaching/probprog/2023_2024/W4L1A.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
         [[Miro board]](https://miro.com/app/board/uXjVMthiiLI=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/) provides you with everything you need to implement a simplified version of this. You are allowed to collaborate wiht the colleague from the same session
       </td>
@@ -318,6 +321,7 @@ table {
         **Paper 2** <br>
         [Rethinking Variational Inference for Probabilistic Programs with Stochastic Support](https://openreview.net/pdf?id=wjClgX-muzB) <br>
         Tim Reichelt, Luke Ong, Tom Rainforth<br>
+        <a href="{{ 'teaching/probprog/2023_2024/W4L1B.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
         [[Miro board]](https://miro.com/app/board/uXjVMthiid8=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/) provides you with everything you need to implement a simplified version of this. You are allowed to collaborate wiht the colleague from the same session
       </td>
@@ -340,6 +344,7 @@ table {
         **Paper 1** <br>
          [Gen: A General-Purpose Probabilistic Programming System with Programmable Inference](https://dl.acm.org/doi/pdf/10.1145/3314221.3314642)<br>
         Marco F. Cusumano-Towner, Feras A. Saad, Alexander K. Lew, Vikash K. Mansinghka<br>
+        <a href="{{ 'teaching/probprog/2023_2024/W4L2A.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
         [[Miro board]](https://miro.com/app/board/uXjVMthijg8=/) <br>
         *Code starter:* [Gen.jl](https://www.gen.dev/)
       </td>
@@ -404,6 +409,7 @@ table {
         **Paper 1** <br>
         [ProbLog: A Probabilistic Prolog and its Application in Link Discovery](https://dtai.cs.kuleuven.be/publications/files/42447.pdf)<br>
         Luc De Raedt, Angelika Kimmig, Hannu Toivonen<br>
+        <a href="{{ 'teaching/probprog/2023_2024/W5L2A.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
         [[Miro board]](https://miro.com/app/board/uXjVMtGYRCQ=/) <br>
         *Code starter:* [Problog website](https://dtai.cs.kuleuven.be/problog/)
       </td>
@@ -436,6 +442,7 @@ table {
         **Paper 1** <br>
         [Incremental inference for probabilistic programs](https://dl.acm.org/doi/pdf/10.1145/3296979.3192399)<br>
         Marco Cusumano-Towner, Benjamin Bichsel, Timon Gehr, Martin Vechev, Vikash K. Mansinghka<br>
+        <a href="{{ 'teaching/probprog/2023_2024/W6L1A.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
         [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/)
       </td>
     </tr>
@@ -530,6 +537,7 @@ table {
         **Paper 1** <br>
         [Algebraic Model Counting](https://www.sciencedirect.com/science/article/pii/S157086831630088X)<br>
         Angelika Kimmig, Guy Van den Broeck, Luc De Raedt<br>
+        <a href="{{ 'teaching/probprog/2023_2024/W7L2.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
         [[Miro board]](https://miro.com/app/board/uXjVMtFCwcM=/) <br>
         *Code starter:* Problog allows you to [play with various semirings](https://dtai.cs.kuleuven.be/problog/wasp2017/session5.html)
       </td>

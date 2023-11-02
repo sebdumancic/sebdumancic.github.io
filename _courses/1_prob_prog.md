@@ -378,7 +378,8 @@ table {
         **Paper 1** <br>
         [On probabilistic inference by weighted model counting](https://www.sciencedirect.com/science/article/pii/S0004370207001889)<br>
         Mark Chavira, Adnan Darwiche<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMthijqI=/)
+        [[Miro board]](https://miro.com/app/board/uXjVMthijqI=/) <br>
+        *Code starter:* you can play with BDD and SDD (a better version of BDDs) though the Python library [PySDD](https://github.com/wannesm/PySDD) or Julia collection of computation circuits in [Juice.jl](https://github.com/Juice-jl); there is also a BDD library in [Julia](https://github.com/RenatoGeh/BDD.jl); Problog also offers a connection to BDDs/SDDs
       </td>
     </tr>
     <tr valign="top" >
@@ -426,43 +427,10 @@ table {
     <tr><td><br></td></tr>
 
 
-
     <tr valign="top">
       <td markdown="span" >
         October 9, 2023 <br>
         (W6 L1)
-      </td>
-      <td markdown="span" >
-        **Incremental and anytime inference** 
-      </td>
-    </tr>
-    <tr valign="top" >
-      <td></td>
-      <td markdown="span" >
-        **Paper 1** <br>
-        [Incremental inference for probabilistic programs](https://dl.acm.org/doi/pdf/10.1145/3296979.3192399)<br>
-        Marco Cusumano-Towner, Benjamin Bichsel, Timon Gehr, Martin Vechev, Vikash K. Mansinghka<br>
-        <a href="{{ 'teaching/probprog/2023_2024/W6L1A.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/)
-      </td>
-    </tr>
-    <tr valign="top" >
-      <td></td>
-      <td markdown="span" >
-        **Paper 2** <br>
-        [Anytime Inference in Probabilistic Logic Programs with TP-Compilation](https://www.ijcai.org/Proceedings/15/Papers/263.pdf)<br>
-        Jonas Vlasselaer, Guy Van den Broeck, Angelika Kimmig, Wannes Meert, Luc De Raedt<br>
-        [[Miro board]](https://miro.com/app/board/uXjVMtGYRSI=/)
-      </td>
-    </tr>
-    <tr><td><br></td></tr>
-
-
-
-    <tr valign="top">
-      <td markdown="span" >
-        October 12, 2023 <br>
-        (W6 L2)
       </td>
       <td markdown="span" >
         **Deep probabilistic programming** 
@@ -487,6 +455,43 @@ table {
       </td>
     </tr>
     <tr><td><br></td></tr>
+
+
+    <tr valign="top">
+      <td markdown="span" >
+        October 12, 2023 <br>
+        (W6 L2)
+      </td>
+      <td markdown="span" >
+        **Incremental and anytime inference** 
+      </td>
+    </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span" >
+        **Paper 1** <br>
+        [Incremental inference for probabilistic programs](https://dl.acm.org/doi/pdf/10.1145/3296979.3192399)<br>
+        Marco Cusumano-Towner, Benjamin Bichsel, Timon Gehr, Martin Vechev, Vikash K. Mansinghka<br>
+	<a href="{{ 'teaching/probprog/2023_2024/W6L1A.pdf' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a>
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRJE=/)<br>
+        *Code starter:* [Gen implementation](https://www.gen.dev/docs/stable/ref/trace_translators/) of trace translators
+      </td>
+    </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span" >
+        **Paper 2** <br>
+        [Anytime Inference in Probabilistic Logic Programs with TP-Compilation](https://www.ijcai.org/Proceedings/15/Papers/263.pdf)<br>
+        Jonas Vlasselaer, Guy Van den Broeck, Angelika Kimmig, Wannes Meert, Luc De Raedt<br>
+        [[Miro board]](https://miro.com/app/board/uXjVMtGYRSI=/)<br>
+        *Code starter:* anytime inference is in Problog: [link](https://problog.readthedocs.io/en/latest/api.html#problog-forward-forward-compilation-and-evaluation)
+      </td>
+    </tr>
+    <tr><td><br></td></tr>
+
+
+
+    
 
     <tr valign="top">
       <td markdown="span" >
@@ -614,9 +619,19 @@ table {
       <td></td>
       <td markdown="span" >
         **Paper 2** <br>
-        [Bayesian Synthesis of Probabilistic Programs for Automatic Data Modeling](https://arxiv.org/abs/1907.06249)<br>
-        Feras Saad, Marco Cusumano-Towner, Ulrich Schaechtle, Martin Rinard, and Vikash Mansinghka<br>
+        [Inferring Signaling Pathways with Probabilistic Programming](https://arxiv.org/pdf/2005.14062.pdf)<br>
+        David Merrell, Anthony Gitter<br>
         [[Miro board]](https://miro.com/app/board/uXjVMtV-GeE=/?share_link_id=847628046927) <br>
+        *Code starter:*  The code is provided in [this tutorial](https://www.gen.dev/tutorials/rj/tutorial)
+      </td>
+    </tr>
+    <tr valign="top" >
+      <td></td>
+      <td markdown="span" >
+        **Paper 3** <br>
+        [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf)<br>
+        Nishad Gothoskar, Marco Cusumano-Towner, Ben Zinberg, Matin Ghavamizadeh, Falk Pollok, Austin Garrett, Joshua B. Tenenbaum, Dan Gutfreund, Vikash K. Mansinghka<br>
+        [[Miro board]](https://miro.com/app/board/uXjVNXNZrxc=/?share_link_id=435003912945) <br>
         *Code starter:*  The code is provided in [this tutorial](https://www.gen.dev/tutorials/rj/tutorial)
       </td>
     </tr>

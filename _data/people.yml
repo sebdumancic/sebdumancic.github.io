@@ -1,3 +1,27 @@
+- firstname: Liang
+  lastname: Wang
+  img:
+  description: Probabilistic programming for coupled physical simulators <br><br>
+  position: postdoc
+  webpage: 
+  current: true
+
+- firstname: Stef
+  lastname: Rasing
+  img:
+  description: 
+  position: ra
+  webpage: 
+  current: true
+
+- firstname: Lorenzo
+  lastname: Theunissen
+  img:
+  description: Program synthesis for programmable networks <br><br>
+  position: phd
+  webpage: 
+  current: true
+
 - firstname: Avi
   lastname: Halevy
   img:
@@ -37,6 +61,14 @@
   position: msc
   webpage: 
   current: true
+
+- firstname: Timo
+  lastname: Jugariu
+  img:
+  description: Program synthesis for programmable data planes <br><br>
+  position: msc
+  webpage: 
+  current: false
 
 - firstname: Tilman
   lastname: Hinnerichs

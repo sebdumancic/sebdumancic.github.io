@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 display_categories: [postdoc, phd, msc, ra, honours]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/team.md -->

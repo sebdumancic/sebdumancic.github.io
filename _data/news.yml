@@ -38,7 +38,7 @@
   txt: Alexander Freeman defended his master thesis *[Exploiting modularity during program synthesis](https://repository.tudelft.nl/islandora/object/uuid%3A7c8d4a49-54e9-4fd0-8372-f0e17d7c8b93)*, exploring how modularity can help us explore program spaces better
 
 - date: 2024-02-01
-  txt: Jord Molhoek defended his master thesis *[Reasoning about MDPs Abstractly: Bayesian Policy Search with Uncertain Prior Knowledge](https://repository.tudelft.nl/islandora/object/uuid%3A7c745398-8fc6-487a-81b2-85a7d9789fbb)*, exploring how uncertain prior knowledge can be leveraged in MDPs with probabilistic programming
+  txt: Jord Molhoek defended his master thesis *[Reasoning about MDPs Abstractly -- Bayesian Policy Search with Uncertain Prior Knowledge](https://repository.tudelft.nl/islandora/object/uuid%3A7c745398-8fc6-487a-81b2-85a7d9789fbb)*, exploring how uncertain prior knowledge can be leveraged in MDPs with probabilistic programming
 
 - date: 2023-07-04
   txt: Jaap de Jong defended his master thesis *[Speeding up program synthesis with specification discovery](https://repository.tudelft.nl/islandora/object/uuid%3A26b28efe-98fd-4c44-9ff3-d2a7d2636912)*, showing how we can automatically discover program equivalences and specifications in program synthesis from data

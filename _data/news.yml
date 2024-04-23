@@ -1,9 +1,57 @@
+- date: 2024-03-01
+  txt: Han joins us as an MSc student. Han will be working with [Frans Oliehoek](https://www.fransoliehoek.net/wp/) and me on probabilistic programming for solving MDPs
+
+- date: 2024-04-01
+  txt: Mara joins us as an MSc student. Mara will be working on automatically constructing better proposals in probabilistic programming thorugh constraint solveres.
+
+- date: 2024-01-12
+  txt: Avi joins us as an MSc student. Avi will be working on improving reasoning in large langauge models with probabilistic programming and theorem provers.
+
+- date: 2023-11-15
+  txt: Bart joins us as an MSc student. Bart will be developing a specialised constraint solver for program synthesis. 
+
+- date: 2023-11-15
+  txt: Luka joins us as an MSc student. Luka will be working with [Jesper Cockx](https://jesper.sikanda.be/) and me on progrma synthesis for programs with dependent types. 
+
+- date: 2023-11-15
+  txt: Lola joins us as an MSc student. Lola will be working on incremental inference in probabilistic programs.
+
+- date: 2024-03-11
+  txt: Lorenzo joins us as a PhD student. Lorenzo will be working with [Fernando Kuipers](https://fernandokuipers.nl/) and me on program synthesis for programmable networks, as a part of the [Future Network Services](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/networked-systems/projects/6g-future-network-services?searchCriteria[0][key]=keywords&searchCriteria[0][values][]=6GTUDelft&searchCriteria[1][key]=LOV25&searchCriteria[1][values][]=11383&searchCriteria[2][key]=LOV27&searchCriteria[2][values][]=11422&searchCriteria[2][values][]=11423&searchCriteria[3][key]=LOV28&searchCriteria[3][values][]=11564&searchCriteria[4][key]=Resultsperpage&searchCriteria[4][values][]=10) project 
+
+- date: 2023-10-01
+  txt: Reuben joins us as a PhD student. Reuben will be working on program synthesis and probabilistic programming for scientific discovery.
+
+- date: 2023-07-07
+  txt: Pepijn Klop defended a master thesis *[Augmenting Program Synthesis with Large Language Models](https://repository.tudelft.nl/islandora/object/uuid%3Aeb7aad92-b4b9-4d8c-b907-206728b1bf0a)*, exploring how large language models can help us generate more expamples for program synthesis
+
+- date: 2023-07-21
+  txt: Reuben Gardos Reid defends his thesis *[Inferring Robust Plans with a Rail Network Simulator](https://repository.tudelft.nl/islandora/object/uuid%3A209608e8-9fa7-4e03-aad8-e973ad22cde9)* on using probabilistic programming to deal with uncertainty in railway planning problems
+
+- date: 2023-08-22
+  txt: Timo Jugariu defended a master thesis *[Program Synthesis for Programmable Data Planes](https://repository.tudelft.nl/islandora/object/uuid%3A9d5b78bc-533d-4aa8-8d5e-8416773d5be3)*, exploring the potential of progrma synthesis to automatically configure programmable networks
+
+- date: 2023-08-24
+  txt: Gautham Venkataraman defended his master thesis *[Reduce, Reuse, Recycle: On exploration of solution reuse in VRPTW](https://repository.tudelft.nl/islandora/object/uuid%3A62c8df02-e2a7-47a3-9981-b5539f312bec)*, exploring how exploit structure in vehicle routing problems thorugh probabilistic programming
+
+- date: 2023-08-28
+  txt: Alexander Freeman defended his master thesis *[Exploiting modularity during program synthesis](https://repository.tudelft.nl/islandora/object/uuid%3A7c8d4a49-54e9-4fd0-8372-f0e17d7c8b93)*, exploring how modularity can help us explore program spaces better
+
+- date: 2024-02-01
+  txt: Jord Molhoek defended his master thesis *[Reasoning about MDPs Abstractly: Bayesian Policy Search with Uncertain Prior Knowledge](https://repository.tudelft.nl/islandora/object/uuid%3A7c745398-8fc6-487a-81b2-85a7d9789fbb)*, exploring how uncertain prior knowledge can be leveraged in MDPs with probabilistic programming
+
+- date: 2023-07-04
+  txt: Jaap de Jong defended his master thesis *[Speeding up program synthesis with specification discovery](https://repository.tudelft.nl/islandora/object/uuid%3A26b28efe-98fd-4c44-9ff3-d2a7d2636912)*, showing how we can automatically discover program equivalences and specifications in program synthesis from data
+
 - date: 2024-01-29
   txt: I'm visiting [Nathanaël Fijalkow](https://games-automata-play.com/)'s group  at CNRS in Bordeaux
+
 - date: 2024-01-15
   txt: I'm giving a talk on the need for a neuro-symbolic languages at the [Probabilistic Learning and Reasoning](https://emilevankrieken.com/phd-defence-and-mini-symposium-probabilistic-reasoning-15-january/) mini-symposium, co-located with Emile Van Krieken's PhD defence. I am also one of Emile's examiners. 
+
 - date: 2024-01-01
-  txt: Liang joins my group as a postdoc. He will be working on probabilistic programming for coupled systems.
+  txt: Liang joins my group as a postdoc. He will be working on probabilistic programming for coupled physics simulators.
+
 - date: 2023-01-12
   txt:  Our RAIL lab has been funded through the [ROBUST programme](https://www.tudelft.nl/en/2023/tu-delft/tu-delft-in-robust-with-3-new-icai-labs-and-ai-clinics-for-smes-thanks-to-nwo-funding-of-25-million-euro)
 
@@ -113,7 +161,7 @@
   txt: Issa Hanou has started a PhD with me and Mathijs de Weerdt. Issa will be working on making rail network planning more robust through insights from program synthesis and probabilistic programming.
 
 - date: 2022-10-01
-  txt: Tilman Hinnerichs has joined my group.
+  txt: Tilman Hinnerichs joined my group.
 
 - date: 2022-12-15
   txt: I'm hiring a postdoc to work on probabilistic programming and simulators in geophysics! Check out the details [here](/team)

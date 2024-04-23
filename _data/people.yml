@@ -1,3 +1,42 @@
+- firstname: Avi
+  lastname: Halevy
+  img:
+  description: Improving reasoning in Large Language Models with probabilistic logic programming and proof assistants (with Tina Nane) <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Han
+  lastname: Heijmans
+  img:
+  description: Probabilistic programming and MDP solving (with Frans Oliehoek) <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Mara
+  lastname: Coman
+  img:
+  description: Better proposals in probabilistic programming thorugh constraint solving <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Luka
+  lastname: Janjić
+  img:
+  description: Program synthesis for dependently typed programs (with Jesper cockx) <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Lola
+  lastname: Dekhuijsen
+  img:
+  description: Incremental inference in probabilistic programming <br><br>
+  position: msc
+  webpage: 
+  current: true
 
 - firstname: Tilman
   lastname: Hinnerichs
@@ -53,7 +92,7 @@
   description: Incorporating prior knowledge in MDPs with probabilistic programming <br><br>
   position: msc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Reuben
   lastname: Gardos Reid

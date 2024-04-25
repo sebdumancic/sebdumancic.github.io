@@ -11,6 +11,7 @@ horizontal: true
 
 <!-- pages/team.md -->
 <div class="projects">
+<div class="people">
 
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
@@ -28,9 +29,10 @@ horizontal: true
         {% else %} Visitors {% endif %} 
         </h2>
 
+        <div class="labmember">
         {% if page.horizontal %}
             <div class="container">
-                <div class="row row-cols-2">
+                <div class="row row-cols-1">
                     {%- for person in peops -%}
                         {% include people_horizontal.html %}
                     {%- endfor %}
@@ -43,6 +45,7 @@ horizontal: true
                 {%- endfor %}
             </div>
         {% endif %}
+        </div>
 
         
     {% endif %}
@@ -51,7 +54,7 @@ horizontal: true
 </div>
 
 <br><br>
-# Alumni
+<h2> Alumni </h2>
 <hr>
 
 <div class="projects">
@@ -72,7 +75,7 @@ horizontal: true
 
         {% if page.horizontal %}
             <div class="container">
-                <div class="row row-cols-2">
+                <div class="row row-cols-1">
                     {%- for person in peops -%}
                         {% include people_horizontal.html %}
                     {%- endfor %}
@@ -91,4 +94,5 @@ horizontal: true
 
   {%- endfor -%}
 
+</div>
 </div>

@@ -733,3 +733,34 @@ progress {
  }
 
 
+ // specifics for people
+
+ .labmember {
+
+  .card {
+    height: 140px;
+
+    img {
+      width: 75%;
+      //height: 80%;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+    }
+  }
+
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      height: 140px;
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  
+
+ }
+

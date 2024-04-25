@@ -72,7 +72,7 @@
 
 - firstname: Tilman
   lastname: Hinnerichs
-  img: assets/img/people/Tilman-Hinnerichs.jpg
+  img: assets/img/people/Tilman-Hinnerichs3.jpg
   description: Neuro-symbolic approaches to probabilistic program synthesis <br><br>
   position: phd
   webpage: https://tilman.hinnerichs.com/
@@ -80,7 +80,7 @@
 
 - firstname: Issa
   lastname: Hanou
-  img: assets/img/people/Issa-Hanou.png
+  img: assets/img/people/Issa-Hanou3.jpg
   description: Probabilistic programming and program synthesis for robust planning
   position: phd
   webpage: 
@@ -112,7 +112,7 @@
 
 - firstname: Reuben
   lastname: Gardos Reid
-  img:
+  img: assets/img/people/Reuben-Gardos-Reid3.jpg
   description: Synthesising probabilistic programs for scientific discovery  <br><br>
   position: phd
   webpage: 

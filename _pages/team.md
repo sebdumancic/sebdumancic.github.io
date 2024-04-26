@@ -73,6 +73,7 @@ horizontal: true
         {% else %} Visitors {% endif %} 
         </h2>
 
+        <div class="labmember">
         {% if page.horizontal %}
             <div class="container">
                 <div class="row row-cols-1">
@@ -88,6 +89,7 @@ horizontal: true
                 {%- endfor %}
             </div>
         {% endif %}
+        </div>
 
         
     {% endif %}

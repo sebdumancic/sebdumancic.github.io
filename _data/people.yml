@@ -1,7 +1,7 @@
 - firstname: Liang
   lastname: Wang
   img:
-  description: Probabilistic programming for coupled physical simulators <br><br>
+  description: Liang is working on simulation-based inference with probabilistic programming. In particular, Liang focuses on exploring how can probabilistic programming help us to do better inference with coupled simulators. 
   position: postdoc
   webpage: 
   current: true
@@ -17,7 +17,7 @@
 - firstname: Lorenzo
   lastname: Theunissen
   img:
-  description: Program synthesis for programmable networks <br><br>
+  description: Lorenzo is working on new program synthesis techniques for automatically configuring the functionality of programmable network devices -- new generation network devices have switched to progammable data planes. 
   position: phd
   webpage: 
   current: true
@@ -41,7 +41,7 @@
 - firstname: Mara
   lastname: Coman
   img:
-  description: Better proposals in probabilistic programming thorugh constraint solving <br><br>
+  description: Better proposals in probabilistic programming through constraint solving <br><br>
   position: msc
   webpage: 
   current: true
@@ -49,7 +49,7 @@
 - firstname: Luka
   lastname: Janjić
   img:
-  description: Program synthesis for dependently typed programs (with Jesper cockx) <br><br>
+  description: Program synthesis for dependently typed programs (with Jesper Cockx) <br><br>
   position: msc
   webpage: 
   current: true
@@ -70,10 +70,18 @@
   webpage: 
   current: false
 
+- firstname: Reuben
+  lastname: Gardos Reid
+  img: assets/img/people/Reuben-Gardos-Reid3.jpg
+  description: Reuben is working on scientific discovery through program synthesis and probabilistic programs as a representation of scientific models -- they allow us to focus on causal links and capture all stochasticity and uncertainty. 
+  position: phd
+  webpage: 
+  current: true
+
 - firstname: Tilman
   lastname: Hinnerichs
   img: assets/img/people/Tilman-Hinnerichs3.jpg
-  description: Neuro-symbolic approaches to probabilistic program synthesis <br><br>
+  description: Tilman is working on neuro-symbolic approaches to knowledge representation and program synthesis, developing formal languages that combine symbols and distributed representations as well as techniques to learn such models.
   position: phd
   webpage: https://tilman.hinnerichs.com/
   current: true
@@ -81,7 +89,7 @@
 - firstname: Issa
   lastname: Hanou
   img: assets/img/people/Issa-Hanou3.jpg
-  description: Probabilistic programming and program synthesis for robust planning
+  description: Issa is exploring the interations between learning, the ideas from program synthesis, with special attention to robust planning.
   position: phd
   webpage: 
   current: true
@@ -97,7 +105,7 @@
 - firstname: Jonas
   lastname: Witt
   img: 
-  description: Analogical reasoning in program synthesis (at Siemens and University of Bamberg)
+  description: Jonas is exploring how analogical reasoning, tied wtih problem decomposition, can help program synthesis techniques to solve more complex tasks (at Siemens and University of Bamberg)
   position: phd
   webpage: 
   current: true
@@ -109,14 +117,6 @@
   position: phd
   webpage: https://kgoyal40.github.io/
   current: false
-
-- firstname: Reuben
-  lastname: Gardos Reid
-  img: assets/img/people/Reuben-Gardos-Reid3.jpg
-  description: Synthesising probabilistic programs for scientific discovery  <br><br>
-  position: phd
-  webpage: 
-  current: true
 
 - firstname: Jord
   lastname: Molhoek

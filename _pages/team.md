@@ -26,6 +26,7 @@ horizontal: true
         {% elsif category == "msc" %} Master students 
         {% elsif category == "ra" %} Research assistants 
         {% elsif category == "honours" %} Honours students (Bsc) 
+        {% elsif category == "rse" %} Research engineers 
         {% else %} Visitors {% endif %} 
         </h2>
 

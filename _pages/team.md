@@ -5,7 +5,7 @@ permalink: /team/
 description: 
 nav: true
 nav_order: 1
-display_categories: [postdoc, phd, msc, ra, honours]
+display_categories: [postdoc, phd, rse, msc, ra, honours]
 horizontal: true
 ---
 
@@ -70,6 +70,7 @@ horizontal: true
         {% elsif category == "msc" %} Master students 
         {% elsif category == "ra" %} Research assistants 
         {% elsif category == "honours" %} Honours students (Bsc) 
+        {% elsif category == "rse" %} Research engineers 
         {% else %} Visitors {% endif %} 
         </h2>
 

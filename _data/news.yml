@@ -1,8 +1,11 @@
 - date: 2024-03-01
-  txt: Stef joins us again as a research assistant helping us to get [Herb](herb-ai.github.io) in a good shape
+  txt: Han joins us as an MSc student. Han will be working with [Frans Oliehoek](https://www.fransoliehoek.net/wp/) and me on probabilistic programming and MDPs.
+
+- date: 2024-03-01
+  txt: Stef joins us again as a research assistant helping us to get [Herb](https://herb-ai.github.io) in a good shape
 
 - date: 2024-04-01
-  txt: Mara joins us as an MSc student. Mara will be working on automatically constructing better proposals in probabilistic programming thorugh constraint solveres.
+  txt: Mara joins us as an MSc student. Mara will be working on automatically constructing better proposals in probabilistic programming with constraint solvers.
 
 - date: 2024-01-12
   txt: Avi joins us as an MSc student. Avi will be working on improving reasoning in large langauge models with probabilistic programming and theorem provers.
@@ -11,7 +14,7 @@
   txt: Bart joins us as an MSc student. Bart will be developing a specialised constraint solver for program synthesis. 
 
 - date: 2023-11-15
-  txt: Luka joins us as an MSc student. Luka will be working with [Jesper Cockx](https://jesper.sikanda.be/) and me on progrma synthesis for programs with dependent types. 
+  txt: Luka joins us as an MSc student. Luka will be working with [Jesper Cockx](https://jesper.sikanda.be/) and me on program synthesis for programs with dependent types. 
 
 - date: 2023-11-15
   txt: Lola joins us as an MSc student. Lola will be working on incremental inference in probabilistic programs.

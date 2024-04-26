@@ -1,3 +1,11 @@
+- firstname: Pamela
+  lastname: Wöchner
+  img:
+  description: Pamela is helping us make [Herb.jl](https://herb-ai.github.io) as good as possible!
+  position: rse
+  webpage: 
+  current: true
+
 - firstname: Liang
   lastname: Wang
   img:

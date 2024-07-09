@@ -1,11 +1,12 @@
-- date: 2024-09-16
+- date: 2024-09-16 
   txt: I'm attending [Aachen Symposium on Representation Learning to Act and Plan](https://ml.rwth-aachen.de/symposium/).
 
-- date: 2023-10-20
-  txt: [Hector Geffner](https://www-i6.informatik.rwth-aachen.de/~hector.geffner/) is visiting us today. We are excited to learn more about his work on generalised planning.
-
 - date: 2024-07-29
-  txt: [Tan Zhi-Xuan](https://ztangent.github.io/) is visiting us today. We are excited to learn more about her work on probabilsitic programming and planning.
+  txt: <a href="https://ztangent.github.io/">Tan Zhi-Xuan</a> is visiting us today. We are excited to learn more about her work on probabilistic programming and model-based planning.
+
+- date: 2023-10-20
+  txt: <a href="https://www-i6.informatik.rwth-aachen.de/~hector.geffner/">Hector Geffner</a> is visiting us today. We are excited to learn more about his work on generalised planning.
+
 
 - date: 2024-07-16
   txt: I'm participating in the [IAS Amsterdam](https://ias.uva.nl/) workshop on [Logic and AI](https://ias.uva.nl/content/events/2024/07/logic-and-ai.html?origin=PRy12xnsQemXLkKbh0An2g&cb)

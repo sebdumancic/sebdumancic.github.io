@@ -83,7 +83,7 @@
   img: assets/img/people/Reuben-Gardos-Reid3.jpg
   description: Reuben is working on scientific discovery through program synthesis and probabilistic programs as a representation of scientific models -- they allow us to focus on causal links and capture all stochasticity and uncertainty. 
   position: phd
-  webpage: 
+  webpage: https://reuben.gr.com/
   current: true
 
 - firstname: Tilman
@@ -99,7 +99,7 @@
   img: assets/img/people/Issa-Hanou3.jpg
   description: Issa is exploring the interations between learning, the ideas from program synthesis, with special attention to robust planning.
   position: phd
-  webpage: 
+  webpage: https://issahanou.github.io/
   current: true
 
 - firstname: Aldo

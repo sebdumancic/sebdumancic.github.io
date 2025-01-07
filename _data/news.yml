@@ -6,7 +6,16 @@
 
 - date: 2024-12-10
   txt: I am visiting Bordeaux (virtually) for [Théo Matricon's](https://theomat.github.io/) PhD defense, as a jury member.
-  
+
+- date: 2024-11-15
+  txt: Richard Wijers joins us as a MSc student (co-supervised with Jana Weber). Richard will be exploring how program synthesis can be used to automatically construct chemical reaction networks.
+
+- date: 2024-11-15
+  txt: Sebastien van Tiggele joins us as a MSc student (co-supervised with Walter Fontana and Jérôme Feret). Sebastien will be exploring how program synthesis can be used to automatically construct Kappa models.
+
+- date: 2024-11-15
+  txt: Matteo Bertorotta joins us as a MSc student (co-supervised with Andreea Costea). Matteo will be making program synthesis more efficient through e-graphs.
+
 - date: 2024-11-07
   txt: I am attending a AAAI Fall Symposium on [Computational Scientific Discovery](http://cogsys.org/symposium/discovery-2024/).
 

@@ -1,3 +1,35 @@
+- firstname: Richard
+  lastname: Wijers
+  img:
+  description: Program synthesis for chemical reaction networks (with [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber)) <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Sebastien
+  lastname: van Tiggele
+  img:
+  description: Program synthesis for agent-based biochemical modelling (with [Walter Fontana](https://sysbio.med.harvard.edu/walter-fontana) and [Jérôme Feret](https://www.di.ens.fr/~feret/#)) <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Matteo
+  lastname: Bertorotta
+  img:
+  description: Improving program synthesis with e-graphs (with [Andreea Costea](https://andrecostea.github.io/)) <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Pallabi
+  lastname: Sree Parker
+  img:
+  description: Program refactoring and forgetting in planning problems <br><br>
+  position: msc
+  webpage: 
+  current: true
+
 - firstname: Pamela
   lastname: Wöchner
   img:
@@ -20,7 +52,7 @@
   description: 
   position: ra
   webpage: 
-  current: true
+  current: false
 
 - firstname: Lorenzo
   lastname: Theunissen
@@ -60,7 +92,7 @@
   description: Program synthesis for dependently typed programs (with Jesper Cockx) <br><br>
   position: msc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Lola
   lastname: Dekhuijsen

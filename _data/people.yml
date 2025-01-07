@@ -33,7 +33,7 @@
 - firstname: Pamela
   lastname: Wöchner
   img:
-  description: Pamela is helping us make [Herb.jl](https://herb-ai.github.io) as good as possible!
+  description: Pamela is helping us make Herb.jl as good as possible!
   position: rse
   webpage: 
   current: true
@@ -97,7 +97,7 @@
 - firstname: Bart 
   lastname: Swinkels
   img:
-  description: [Constraint Propagation in Program Synthesis](https://repository.tudelft.nl/record/uuid:35d0ed1e-fe16-43af-b32c-22770235a59f) <br><br>
+  description: Constraint Propagation in Program Synthesis <br><br>
   position: msc
   webpage: 
   current: false
@@ -148,7 +148,7 @@
   description: Probabilistic programming and simulators (with MIT-IBM Watson Lab)
   position: phd
   webpage: https://mitibmwatsonailab.mit.edu/people/aldo-pareja/
-  current: true
+  current: false
 
 - firstname: Jonas
   lastname: Witt

@@ -57,7 +57,7 @@
 - firstname: Lorenzo
   lastname: Theunissen
   img:
-  description: Lorenzo is working on new program synthesis techniques for automatically configuring the functionality of programmable network devices -- new generation network devices have switched to progammable data planes. 
+  description: Lorenzo is working on new program synthesis techniques for automatically configuring the functionality of programmable network devices -- new generation network devices have switched to progammable data planes.
   position: phd
   webpage: 
   current: true
@@ -90,6 +90,14 @@
   lastname: Janjić
   img:
   description: Program synthesis for dependently typed programs (with Jesper Cockx) <br><br>
+  position: msc
+  webpage: 
+  current: false
+
+- firstname: Bart Swinkels
+  lastname: Wijers
+  img:
+  description: [Constraint Propagation in Program Synthesis](https://repository.tudelft.nl/record/uuid:35d0ed1e-fe16-43af-b32c-22770235a59f) <br><br>
   position: msc
   webpage: 
   current: false

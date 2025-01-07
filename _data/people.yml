@@ -94,8 +94,8 @@
   webpage: 
   current: false
 
-- firstname: Bart Swinkels
-  lastname: Wijers
+- firstname: Bart 
+  lastname: Swinkels
   img:
   description: [Constraint Propagation in Program Synthesis](https://repository.tudelft.nl/record/uuid:35d0ed1e-fe16-43af-b32c-22770235a59f) <br><br>
   position: msc

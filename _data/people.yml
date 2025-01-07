@@ -1,7 +1,7 @@
 - firstname: Richard
   lastname: Wijers
   img:
-  description: Program synthesis for chemical reaction networks (with [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber)) <br><br>
+  description: Program synthesis for chemical reaction networks (with Jana Weber) <br><br>
   position: msc
   webpage: 
   current: true
@@ -9,7 +9,7 @@
 - firstname: Sebastien
   lastname: van Tiggele
   img:
-  description: Program synthesis for agent-based biochemical modelling (with [Walter Fontana](https://sysbio.med.harvard.edu/walter-fontana) and [Jérôme Feret](https://www.di.ens.fr/~feret/#)) <br><br>
+  description: Program synthesis for agent-based biochemical modelling (with Walter Fontana and Jérôme Feret) <br><br>
   position: msc
   webpage: 
   current: true
@@ -17,7 +17,7 @@
 - firstname: Matteo
   lastname: Bertorotta
   img:
-  description: Improving program synthesis with e-graphs (with [Andreea Costea](https://andrecostea.github.io/)) <br><br>
+  description: Improving program synthesis with e-graphs (with Andreea Costea) <br><br>
   position: msc
   webpage: 
   current: true

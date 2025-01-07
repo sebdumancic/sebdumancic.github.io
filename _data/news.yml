@@ -1,5 +1,11 @@
-- date: 2024-12-05
-  txt: 
+- date: 2024-12-10
+  txt: Our [Find2Fix](https://www.tudelft.nl/en/2024/eemcs/find2fix-project-receives-nwo-knowledge-and-innovation-covenant-funding) project has been accepted. I will be hiring a PhD student to work on the intersection of program syntehsis and cyber security.
+
+- date: 2024-12-13
+  txt: I am giving a talk at [Sebastian Musslick's](https://smusslick.com/) [Autonomous Empricial Research](https://musslick.github.io/AER_website/) group
+
+- date: 2024-12-10
+  txt: I am visiting Bordeaux (virtually) for [Théo Matricon's](https://theomat.github.io/) PhD defense, as a jury member.
   
 - date: 2024-11-07
   txt: I am attending a AAAI Fall Symposium on [Computational Scientific Discovery](http://cogsys.org/symposium/discovery-2024/).
@@ -8,7 +14,7 @@
   txt: I am visiting [Walter Fontana's lab](https://fontana.hms.harvard.edu/) at Harvard School of Medicine
 
 - date: 2024-11-01
-  txt: Our project [A Layered, Explainable Approach to Intelligent Greenhouse Horticulture](https://www.nwo.nl/en/news/two-consortia-to-start-research-on-the-use-of-ai-in-horticulture-and-livestock-farming) has been awarded by NWO.
+  txt: Our project [A Layered, Explainable Approach to Intelligent Greenhouse Horticulture](https://www.nwo.nl/en/news/two-consortia-to-start-research-on-the-use-of-ai-in-horticulture-and-livestock-farming) has been awarded by NWO. I will be hiring one PhD student next year.
 
 - date: 2024-01-01
   txt: I am acting as a co-chair for the [Special Track on Reasoning, Learning, and Decision-Making](https://kr.org/KR2024/cfp_reason_learn_dec.php) at [KR 2024](https://kr.org/KR2024/) together with [Jean Christoph Jung](https://logic-in.cs.tu-dortmund.de/personen/profs/jean-christoph-jung/) and [Iran Mansouri](https://iranmansoori.github.io/)
@@ -16,8 +22,14 @@
 - date: 2024-09-16 
   txt: I'm attending [Aachen Symposium on Representation Learning to Act and Plan](https://ml.rwth-aachen.de/symposium/).
 
+- date: 2024-08-19
+  txt: Luka Janjić defended his MSc thesis on program synthesis with dependent types. 
+
 - date: 2024-07-29
   txt: <a href="https://ztangent.github.io/">Tan Zhi-Xuan</a> is visiting us today. We are excited to learn more about her work on probabilistic programming and model-based planning.
+
+- date: 2024-07-04
+  txt: Bart Swinkels graduated with an excellent MSc thesis on [Constraint Propagation in Program Synthesis](http://resolver.tudelft.nl/uuid:35d0ed1e-fe16-43af-b32c-22770235a59f). Bart's thesis set the foundations for our [Herb library](https://herb-ai.github.io/).
 
 - date: 2023-10-20
   txt: <a href="https://www-i6.informatik.rwth-aachen.de/~hector.geffner/">Hector Geffner</a> is visiting us today. We are excited to learn more about his work on generalised planning.

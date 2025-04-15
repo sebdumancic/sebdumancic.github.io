@@ -1,3 +1,12 @@
+- date: 2025-04-15
+  txt: Reuben, Richard, and I are attending [Ai4Bio symphosium](https://www.ai4b.io/news-and-events/events/ai4b-io-annual-symposium-2025/)
+
+- date: 2025-04-02
+  txt: I have (finally) obtained University Teaching Qualification. 
+
+- date: 2025-05-16
+  txt: Claire Kuhlkin joins us as a MSc student (co-supervised by Annette ten Teije and Frank van Harmelen). Claire will be working on improving medical guidelines from data through Inductive Logic Programming.
+
 - date: 2025-02-09
   txt: Ole Poeth joins us as a MSc student. Ole will be working on interactive constraint acquisition in program synthesis.
 
@@ -5,7 +14,7 @@
   txt: Rutger Klaassen joins us as a MSc students. Rutger will be working on combining symbolic progrma synthesis with LLMs.
 
 - date: 2025-02-02
-  txt: [Sebastian Mežnar](https://smeznar.github.io) is visiting us for 3 weeks.
+  txt: Sebastian Mežnar](https://smeznar.github.io) is visiting us for 3 weeks.
 
 - date: 2025-02-21
   txt: I am giving a talk in the [KAS lab](https://kas-lab.github.io/) of [Carlos Hernández Corbato](https://chcorbato.github.io/)

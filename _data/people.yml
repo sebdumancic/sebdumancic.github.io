@@ -44,7 +44,7 @@
   description: Liang is working on simulation-based inference with probabilistic programming. In particular, Liang focuses on exploring how can probabilistic programming help us to do better inference with coupled simulators. 
   position: postdoc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Stef
   lastname: Rasing
@@ -68,7 +68,7 @@
   description: Improving reasoning in Large Language Models with probabilistic logic programming and proof assistants (with Tina Nane) <br><br>
   position: msc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Han
   lastname: Heijmans
@@ -82,6 +82,14 @@
   lastname: Coman
   img:
   description: Better proposals in probabilistic programming through constraint solving <br><br>
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Claire
+  lastname: Kuhlkin
+  img:
+  description: Improving medical guidelines with ILP (with Annette ten Teije) <br><br>
   position: msc
   webpage: 
   current: true

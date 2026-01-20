@@ -1,3 +1,42 @@
+- date: 2025-12-01
+  txt: Alperen Guncan joins us as an MSc student. Alperen will be working on discovering generalised conflicts in program synthesis.
+
+- date: 2025-11-11
+  txt: Ivo Yordanov joins us as an MSc student. Ivo will be working on a joint project with ASML and my previous PhD student Kshitij Goyal.
+
+- date: 2025-10-15
+  txt: Ole Poeth defended his MSc thesis on generalising conflict analysis for program synthesis.
+
+- date: 2025-09-20
+  txt: Danila Bren joins us as a MSc student. Danila will be working on using motifs to discover biological qualitative networks.
+
+- date: 2025-09-17
+  txt: Sebastien van Tiggele defended his MSc thesis on analysing Kappa programs through program synthesis.
+
+- date: 2025-09-15
+  txt: Matteo Bertorotta defended his MSc thesis on program synthesis and e-graphs.
+
+- date: 2025-09-01
+  txt: Dekel Zak joins us as a PhD student. Dekel will be working on program repair in cybersecurity with Sicco Verwer and me.
+
+- date: 2025-09-01
+  txt: Stef Rasing joins us again, this time as a MSc student. Stef will be working on learning within a single synthesis problem.
+
+- date: 2025-09-01
+  txt: Hidde Leistra joins us as a MSc student. Hidde will be working on drone design with program synthesis.
+
+- date: 2025-08-21
+  txt: Pallabi Sree Sarker defended her MSc thesis on discovering macro-actions in planning.
+
+- date: 2025-07-15
+  txt: Richard Wijers defended his MSc thesis on discovering chemical reaction networks with program synthesis.
+
+- date: 2025-07-15
+  txt: Mara Coman defended her MSc thesis on constructing proposals with constraint solvers in probabilistic programming.
+
+- date: 2025-06-30
+  txt: Claire Kulkhin defended her MSc thesis on discovering medical guidelines with ILP.
+
 - date: 2025-06-05
   txt: I've joined the Scientific Comittee of the [Symbolic Computation and Machine Learning](https://scml.risc.jku.at/) Initiative
 
